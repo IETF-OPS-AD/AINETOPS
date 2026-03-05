@@ -5,7 +5,7 @@
 * AI/LLM Benchmarking
 * Discovery
 * Transport
-* Secuirty, including Authentication & Authorization
+* Security, including Authentication & Authorization
 * Inter-agent
 * Misc.
 * Side Meetings
