@@ -124,6 +124,7 @@
 
 # AI-related Mailing Lists
 
+* [ainetops](https://mailman3.ietf.org/mailman3/lists/ainetops.ietf.org/)
 * [agent2agent](https://mailman3.ietf.org/mailman3/lists/agent2agent.ietf.org/)
 * [ai-control](https://mailman3.ietf.org/mailman3/lists/ai-control.ietf.org/)
 * [aidc](https://mailman3.ietf.org/mailman3/lists/aidc.ietf.org/)
