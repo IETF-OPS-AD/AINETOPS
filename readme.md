@@ -1,6 +1,12 @@
 # AI for Network Operations
 
-This repo is meant to inventory work, drafts, meetings, etc. related to AINETOPS within the IETF
+This repo is meant to inventory work, drafts, meetings, etc. related to AINETOPS within the IETF. 
+
+The following mailing list exist for discussion of AI techniques -- including but not limited to agentic and generative approaches -- as they relate to IETF-based network operations.
+
+* [ainetops](https://mailman3.ietf.org/mailman3/lists/ainetops.ietf.org/)
+
+Several other IETF lists covering AI-topics may also be found at the end of this page.
 
 ## Table of Contents
 
@@ -160,6 +166,7 @@ This repo is meant to inventory work, drafts, meetings, etc. related to AINETOPS
 
 ## AI-related Mailing Lists
 
+* [ainetops](https://mailman3.ietf.org/mailman3/lists/ainetops.ietf.org/)
 * [agent2agent](https://mailman3.ietf.org/mailman3/lists/agent2agent.ietf.org/)
 * [ai-control](https://mailman3.ietf.org/mailman3/lists/ai-control.ietf.org/)
 * [aidc](https://mailman3.ietf.org/mailman3/lists/aidc.ietf.org/)
