@@ -1,6 +1,23 @@
-# Internet-Drafts, Side Meetings and Discussions, related to AI for Network Operations.
+# AI for Network Operations
 
-This repo is meant to inventory work, drafts, meetings, etc. related to AINETOPS within IETF
+This repo is meant to inventory work, drafts, meetings, etc. related to AINETOPS within the IETF
+
+## Table of Contents
+
+- [Meetings](#meetings)
+  - [Upcoming IETF Meetings](#upcoming-ietf-meetings)
+  - [Previous Side Meetings](#previous-side-meetings)
+- [Presentations](#presentations)
+- [Internet-Drafts](#internet-drafts)
+  - [Network Management](#network-management)
+  - [Networking for AI / AIDC](#networking-for-ai--aidc)
+  - [LLM/AI Benchmarking](#llmai-benchmarking)
+  - [Discovery & Naming](#discovery--naming)
+  - [Transport](#transport)
+  - [Security (including Authentication & Authorization)](#security-including-authentication--authorization)
+  - [Inter-Agent](#inter-agent)
+  - [Misc](#misc)
+- [AI-related Mailing Lists](#ai-related-mailing-lists)
 
 ## Meetings
 
@@ -51,20 +68,7 @@ This repo is meant to inventory work, drafts, meetings, etc. related to AINETOPS
 
 ## Internet-Drafts
 
-# Overview
-
-* Network Management
-* Networking for AI / AIDC
-* AI/LLM Benchmarking
-* Discovery
-* Transport
-* Authentication & Authorization
-* Inter-agent
-* Misc.
-* Side Meetings
-* AI-related Mailing Lists
-
-# Network Management
+## Network Management
 
 * [draft-wmz-nmrg-agent-ndt-arch Network Digital](https://datatracker.ietf.org/doc/draft-wmz-nmrg-agent-ndt-arch): Network Digital Twin and Agentic AI based Architecture for AI driven Network Operations
 * [draft-hong-nmrg-agenticai-ps](https://datatracker.ietf.org/doc/draft-hong-nmrg-agenticai-ps): Motivations and Problem Statement of Agentic AI for network management
@@ -82,7 +86,7 @@ This repo is meant to inventory work, drafts, meetings, etc. related to AINETOPS
 * [draft-irtf-nmrg-ai-deploy](https://datatracker.ietf.org/doc/draft-irtf-nmrg-ai-deploy): Considerations of network/system for AI services
 * [draft-pedro-nmrg-ai-framework](https://datatracker.ietf.org/doc/draft-pedro-nmrg-ai-framework): Artificial Intelligence Framework for Network Management
 
-# Networking for AI / AIDC
+## Networking for AI / AIDC
 
 * [draft-hu-rtgwg-cbfc-rsvp](https://datatracker.ietf.org/doc/draft-hu-rtgwg-cbfc-rsvp): Credit-based Flow Control Based on RSVP for RDMA transmission in WAN
 * [draft-hcl-rtgwg-ai-network-problem](https://datatracker.ietf.org/doc/draft-hcl-rtgwg-ai-network-problem): Gap Analysis, Problem Statement, and Requirements in AI Networks
@@ -90,20 +94,20 @@ This repo is meant to inventory work, drafts, meetings, etc. related to AINETOPS
 * [draft-cheng-rtgwg-ai-network-reliability-problem](https://datatracker.ietf.org/doc/draft-cheng-rtgwg-ai-network-reliability-problem): Reliability in AI Networks Gap Analysis, Problem Statement, and Requirements
 * [draft-li-rtgwg-distributed-lossless-framework](https://datatracker.ietf.org/doc/draft-li-rtgwg-distributed-lossless-framework): Framework of Distributed AIDC Network
 
-# LLM/AI Benchmarking
+## LLM/AI Benchmarking
 
-## Terminology
+### Terminology
 
  * [draft-gaikwad-llm-benchmarking-terminology](https://datatracker.ietf.org/doc/draft-gaikwad-llm-benchmarking-terminology/)
  * [draft-calabria-bmwg-ai-fabric-terminology/](https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-terminology/)
      
-## Methodology
+### Methodology
 
   * [draft-gaikwad-llm-benchmarking-methodology](https://datatracker.ietf.org/doc/draft-gaikwad-llm-benchmarking-methodology/)
   * [draft-calabria-bmwg-ai-fabric-training-bench/](https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-training-bench/)
   * [draft-calabria-bmwg-ai-fabric-inference-bench/](https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-inference-bench/)
 
-## Profiles: SUT boundary definitions for model engines, AI firewall, AI gateways, etc.
+### Profiles: SUT boundary definitions for model engines, AI firewall, AI gateways, etc.
 
   * [draft-gaikwad-llm-benchmarking-profiles](https://datatracker.ietf.org/doc/draft-gaikwad-llm-benchmarking-profiles/)
 
@@ -114,7 +118,7 @@ This repo is meant to inventory work, drafts, meetings, etc. related to AINETOPS
 * [draft-mapmw-task-discovery](https://datatracker.ietf.org/doc/draft-mapmw-task-discovery): Task discovery in agentic networks
 * [draft-mp-agntcy-ads](https://datatracker.ietf.org/doc/draft-mp-agntcy-ads): Agent Directory Service
 
-## Transport 
+## Transport
 
 * [draft-mpsb-agntcy-messaging](https://datatracker.ietf.org/doc/draft-mpsb-agntcy-messaging): An Overview of Messaging Systems and Their Applicability to Agentic AI
 * [draft-liu-agent-protocol-over-moq](https://datatracker.ietf.org/doc/draft-liu-agent-protocol-over-moq): Agent Protocol over MoQ
@@ -131,7 +135,7 @@ This repo is meant to inventory work, drafts, meetings, etc. related to AINETOPS
 * [draft-chen-oauth-scope-agent-extensions](https://datatracker.ietf.org/doc/draft-chen-oauth-scope-agent-extensions): Structured and Constraint Extensions for OAuth Scopes
 * [draft-barney-caam](https://datatracker.ietf.org/doc/draft-barney-caam): Contextual Agent Authorization Mesh (CAAM)
 
-# Inter-Agent
+## Inter-Agent
 
 * [draft-hw-protocol-agent](https://datatracker.ietf.org/doc/draft-hw-protocol-agent)-00 AI Agent Protocols for Multi-modality
 * [draft-yao-catalist-problem-space-analysis](https://datatracker.ietf.org/doc/draft-yao-catalist-problem-space-analysis)-01 Problem Space Analysis of AI Agent Protocols in IETF
@@ -144,7 +148,7 @@ This repo is meant to inventory work, drafts, meetings, etc. related to AINETOPS
 * [draft-nennemann-wimse-ect](https://datatracker.ietf.org/doc/draft-nennemann-wimse-ect): Execution Context Tokens for Distributed Agentic Workflows
 * [draft-song-dmsc-problem-statement](https://datatracker.ietf.org/doc/draft-song-dmsc-problem-statement): Problem Statement and Requirements for Dynamic Multi-agent Secured Collaboration (DMSC)
 
-# Misc
+## Misc
 
 * [draft-scrm-aiproto-usecases](https://datatracker.ietf.org/doc/draft-scrm-aiproto-usecases): Agentic AI Use Cases
 * [draft-dunbar-agent-attachment](https://datatracker.ietf.org/doc/draft-dunbar-agent-attachment): Agent Attachment Protocol
@@ -154,7 +158,7 @@ This repo is meant to inventory work, drafts, meetings, etc. related to AINETOPS
 * [draft-ni-wimse-ai-agent-identity](https://datatracker.ietf.org/doc/draft-ni-wimse-ai-agent-identity): WIMSE Applicability for AI Agents
 * [draft-sarischo-6gip-aiml-security-privacy](https://datatracker.ietf.org/doc/draft-sarischo-6gip-aiml-security-privacy): Security and Privacy Implications of 3GPP AI/ML Services for 6G
 
-# AI-related Mailing Lists
+## AI-related Mailing Lists
 
 * [agent2agent](https://mailman3.ietf.org/mailman3/lists/agent2agent.ietf.org/)
 * [ai-control](https://mailman3.ietf.org/mailman3/lists/ai-control.ietf.org/)
