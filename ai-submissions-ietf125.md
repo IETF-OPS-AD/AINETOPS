@@ -1,12 +1,15 @@
 # Overview
 
 * Network Management
+* Networking for AI
 * AI/LLM Benchmarking
 * Discovery
 * Transport
-* Authentication & Authorization
+* Secuirty, including Authentication & Authorization
 * Inter-agent
 * Misc.
+* Side Meetings
+* AI-related Mailing Lists
 
 # Network Management {#nm}
 
@@ -20,6 +23,19 @@
 * [draft-chuyi-nmrg-agentic-network-inference](https://datatracker.ietf.org/doc/draft-chuyi-nmrg-agentic-network-inference): Agentic Network Architecture and Protocol for Supporting Agent Interconnection Communication and Multi-level Inference 
 * [draft-zhao-ccamp-actn-optical-network-agent](https://datatracker.ietf.org/doc/draft-zhao-ccamp-actn-optical-network-agent): Integration of Network Management Agent (NMA) into ACTN-Based Optical Network
 * [draft-zhao-nmop-network-management-agent](https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent):  AI based Network Management Agent(NMA): Concepts and Architecture
+* [draft-king-rokui-ainetops-usecases](https://datatracker.ietf.org/doc/draft-king-rokui-ainetops-usecases): Artificial Intelligence (AI) for Network Operations
+* [draft-irtf-nmrg-ai-challenges](https://datatracker.ietf.org/doc/draft-irtf-nmrg-ai-challenges): Research Challenges in Coupling Artificial Intelligence and Network Management
+* [draft-irtf-nmrg-llm-nm](https://datatracker.ietf.org/doc/draft-irtf-nmrg-llm-nm): A Framework for LLM-Assisted Network Management with Human-in-the-Loop
+* [draft-irtf-nmrg-ai-deploy](https://datatracker.ietf.org/doc/draft-irtf-nmrg-ai-deploy): Considerations of network/system for AI services
+* [draft-pedro-nmrg-ai-framework](https://datatracker.ietf.org/doc/draft-pedro-nmrg-ai-framework): Artificial Intelligence Framework for Network Management
+
+# Networking for AI / AIDC
+
+* [draft-hu-rtgwg-cbfc-rsvp](https://datatracker.ietf.org/doc/draft-hu-rtgwg-cbfc-rsvp): Credit-based Flow Control Based on RSVP for RDMA transmission in WAN
+* [draft-hcl-rtgwg-ai-network-problem](https://datatracker.ietf.org/doc/draft-hcl-rtgwg-ai-network-problem): Gap Analysis, Problem Statement, and Requirements in AI Networks
+* [draft-hcl-rtgwg-osf-framework](https://datatracker.ietf.org/doc/draft-hcl-rtgwg-osf-framework): A OSF Framework for Artificial Intelligence (AI) Network
+* [draft-cheng-rtgwg-ai-network-reliability-problem](https://datatracker.ietf.org/doc/draft-cheng-rtgwg-ai-network-reliability-problem): Reliability in AI Networks Gap Analysis, Problem Statement, and Requirements
+* [draft-li-rtgwg-distributed-lossless-framework](https://datatracker.ietf.org/doc/draft-li-rtgwg-distributed-lossless-framework): Framework of Distributed AIDC Network
 
 # LLM/AI Benchmarking
 
@@ -84,3 +100,31 @@
 * [draft-bondar-wca](https://datatracker.ietf.org/doc/draft-bondar-wca): Warrant Certificate Authorities (WCA): Auditable Data Provenance for AI-Agent Tool-Call Chains
 * [draft-du-catalist-routing-considerations](https://datatracker.ietf.org/doc/draft-du-catalist-routing-considerations): Routing Considerations in Agentic Network
 * [draft-ni-wimse-ai-agent-identity](https://datatracker.ietf.org/doc/draft-ni-wimse-ai-agent-identity): WIMSE Applicability for AI Agents
+* [draft-sarischo-6gip-aiml-security-privacy](https://datatracker.ietf.org/doc/draft-sarischo-6gip-aiml-security-privacy): Security and Privacy Implications of 3GPP AI/ML Services for 6G
+
+# Side Meetings
+
+## IETF-122
+* [Challenges in Networking for AI/ML Clusters](https://trello.com/c/gFh3jJpP/79-1400-1500-challenges-in-networking-for-aiml-clusters)
+* [Enabling Data Security, Trust and Privacy for AI in Future Network](https://trello.com/c/JwtMkJzN/56-1315-1445-enabling-data-security-trust-and-privacy-for-ai-in-future-network)
+* [Intelligent Network Element](https://trello.com/c/prFY2Cer/53-1500-1700-intelligent-network-element)
+
+## IETF-121
+* [AI for Network Operations (Dan King)](https://github.com/danielkinguk/ai4network/blob/main/ietf121/agenda-121.md)
+* [LLM4Net](https://github.com/THUxiexiaohui/LLM4Net/tree/main/IETF121)
+* 6gip AI/MLNet
+* AI Control Workshop Followup
+* [IDEA Traffic Handling](https://github.com/afressancourt/IDEA-traffic-handling/tree/main/side-meetings/IETF-121)
+* Networking for AI
+
+## IETF-120
+* [AI for Network Operations (Dan King)](https://github.com/danielkinguk/ai4network/blob/main/ietf120/agenda.md)
+* New Technologies in AIDC
+* [Inter-DC AI (Dirk Trossen)](https://github.com/dirk-trossen-huawei/ietf120_inter-dc_ai)
+
+# AI-related Mailing Lists
+
+* [agent2agent](https://mailman3.ietf.org/mailman3/lists/agent2agent.ietf.org/)
+* [ai-control](https://mailman3.ietf.org/mailman3/lists/ai-control.ietf.org/)
+* [aidc](https://mailman3.ietf.org/mailman3/lists/aidc.ietf.org/)
+* [pidloc](https://mailman3.ietf.org/mailman3/lists/pidloc.ietf.org/)
