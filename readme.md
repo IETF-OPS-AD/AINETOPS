@@ -2,6 +2,8 @@
 
 This repo is meant to inventory work, drafts, meetings, etc. related to AINETOPS within the IETF. 
 
+This area is maintained by Qin Wu (bill.wu@huawei.com) and Dan King (d.king@lancaster.ac.uk). Please email them any missing work or meetings you would like to see included/linked in this repositry. 
+
 The following mailing list exist for discussion of AI techniques -- including but not limited to agentic and generative approaches -- as they relate to IETF-based network operations.
 
 * [ainetops](https://mailman3.ietf.org/mailman3/lists/ainetops.ietf.org/)
