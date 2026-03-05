@@ -11,6 +11,16 @@ This repo is meant to inventory work, drafts, meetings, etc. related to AINETOPS
 
 ### Previous Side Meetings
 
+#### IETF#124
+
+#### IETF#123
+
+#### IETF#122
+
+#### IETF#121
+
+#### IETF#120
+
 #### IETF#119
 
 * AI4NETWORK: 
@@ -54,7 +64,7 @@ This repo is meant to inventory work, drafts, meetings, etc. related to AINETOPS
 * Side Meetings
 * AI-related Mailing Lists
 
-# Network Management {#nm}
+# Network Management
 
 * [draft-wmz-nmrg-agent-ndt-arch Network Digital](https://datatracker.ietf.org/doc/draft-wmz-nmrg-agent-ndt-arch): Network Digital Twin and Agentic AI based Architecture for AI driven Network Operations
 * [draft-hong-nmrg-agenticai-ps](https://datatracker.ietf.org/doc/draft-hong-nmrg-agenticai-ps): Motivations and Problem Statement of Agentic AI for network management
