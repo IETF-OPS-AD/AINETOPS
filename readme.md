@@ -96,14 +96,6 @@ Several other IETF lists covering AI-topics may also be found at the [end of thi
 * [draft-irtf-nmrg-ai-deploy](https://datatracker.ietf.org/doc/draft-irtf-nmrg-ai-deploy): Considerations of network/system for AI services
 * [draft-pedro-nmrg-ai-framework](https://datatracker.ietf.org/doc/draft-pedro-nmrg-ai-framework): Artificial Intelligence Framework for Network Management
 
-### Networking for AI / AIDC
-
-* [draft-hu-rtgwg-cbfc-rsvp](https://datatracker.ietf.org/doc/draft-hu-rtgwg-cbfc-rsvp): Credit-based Flow Control Based on RSVP for RDMA transmission in WAN
-* [draft-hcl-rtgwg-ai-network-problem](https://datatracker.ietf.org/doc/draft-hcl-rtgwg-ai-network-problem): Gap Analysis, Problem Statement, and Requirements in AI Networks
-* [draft-hcl-rtgwg-osf-framework](https://datatracker.ietf.org/doc/draft-hcl-rtgwg-osf-framework): A OSF Framework for Artificial Intelligence (AI) Network
-* [draft-cheng-rtgwg-ai-network-reliability-problem](https://datatracker.ietf.org/doc/draft-cheng-rtgwg-ai-network-reliability-problem): Reliability in AI Networks Gap Analysis, Problem Statement, and Requirements
-* [draft-li-rtgwg-distributed-lossless-framework](https://datatracker.ietf.org/doc/draft-li-rtgwg-distributed-lossless-framework): Framework of Distributed AIDC Network
-
 ### LLM/AI Benchmarking
 
 #### Terminology
@@ -120,6 +112,15 @@ Several other IETF lists covering AI-topics may also be found at the [end of thi
 #### Profiles: SUT boundary definitions for model engines, AI firewall, AI gateways, etc.
 
   * [draft-gaikwad-llm-benchmarking-profiles](https://datatracker.ietf.org/doc/draft-gaikwad-llm-benchmarking-profiles/)
+
+### Networking for AI / AIDC
+
+* [draft-hu-rtgwg-cbfc-rsvp](https://datatracker.ietf.org/doc/draft-hu-rtgwg-cbfc-rsvp): Credit-based Flow Control Based on RSVP for RDMA transmission in WAN
+* [draft-hcl-rtgwg-ai-network-problem](https://datatracker.ietf.org/doc/draft-hcl-rtgwg-ai-network-problem): Gap Analysis, Problem Statement, and Requirements in AI Networks
+* [draft-hcl-rtgwg-osf-framework](https://datatracker.ietf.org/doc/draft-hcl-rtgwg-osf-framework): An OSF Framework for Artificial Intelligence (AI) Network
+* [draft-cheng-rtgwg-ai-network-reliability-problem](https://datatracker.ietf.org/doc/draft-cheng-rtgwg-ai-network-reliability-problem): Reliability in AI Networks Gap Analysis, Problem Statement, and Requirements
+* [draft-li-rtgwg-distributed-lossless-framework](https://datatracker.ietf.org/doc/draft-li-rtgwg-distributed-lossless-framework): Framework of Distributed AIDC Network
+* [draft-du-catalist-routing-considerations](https://datatracker.ietf.org/doc/draft-du-catalist-routing-considerations): Routing Considerations in Agentic Network
 
 ### Discovery & Naming
 
@@ -144,6 +145,8 @@ Several other IETF lists covering AI-topics may also be found at the [end of thi
 * [draft-liu-agent-operation-authorization](https://datatracker.ietf.org/doc/draft-liu-agent-operation-authorization): Agent Operation Authorization
 * [draft-chen-oauth-scope-agent-extensions](https://datatracker.ietf.org/doc/draft-chen-oauth-scope-agent-extensions): Structured and Constraint Extensions for OAuth Scopes
 * [draft-barney-caam](https://datatracker.ietf.org/doc/draft-barney-caam): Contextual Agent Authorization Mesh (CAAM)
+* [draft-sarischo-6gip-aiml-security-privacy](https://datatracker.ietf.org/doc/draft-sarischo-6gip-aiml-security-privacy): Security and Privacy Implications of 3GPP AI/ML Services for 6G
+
 
 ### Inter-Agent
 
@@ -164,9 +167,7 @@ Several other IETF lists covering AI-topics may also be found at the [end of thi
 * [draft-dunbar-agent-attachment](https://datatracker.ietf.org/doc/draft-dunbar-agent-attachment): Agent Attachment Protocol
 * [draft-birkholz-verifiable-agent-conversations](https://datatracker.ietf.org/doc/draft-birkholz-verifiable-agent-conversations): Verifiable Agent Conversation Records
 * [draft-bondar-wca](https://datatracker.ietf.org/doc/draft-bondar-wca): Warrant Certificate Authorities (WCA): Auditable Data Provenance for AI-Agent Tool-Call Chains
-* [draft-du-catalist-routing-considerations](https://datatracker.ietf.org/doc/draft-du-catalist-routing-considerations): Routing Considerations in Agentic Network
 * [draft-ni-wimse-ai-agent-identity](https://datatracker.ietf.org/doc/draft-ni-wimse-ai-agent-identity): WIMSE Applicability for AI Agents
-* [draft-sarischo-6gip-aiml-security-privacy](https://datatracker.ietf.org/doc/draft-sarischo-6gip-aiml-security-privacy): Security and Privacy Implications of 3GPP AI/ML Services for 6G
 
 ## AI-related Mailing Lists
 
