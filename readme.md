@@ -17,7 +17,7 @@ Several other IETF lists covering AI-topics may also be found at the [end of thi
   - [Previous Side Meetings](#previous-side-meetings)
 - [Presentations](#presentations)
 - [Internet-Drafts](#internet-drafts)
-  - [Network Operation](#network-management)
+  - [Network Operation](#network-operations)
   - [Networking for AI / AIDC](#networking-for-ai--aidc)
   - [LLM/AI Benchmarking](#llmai-benchmarking)
   - [Discovery & Naming](#discovery--naming)
