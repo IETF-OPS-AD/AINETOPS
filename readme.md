@@ -2,13 +2,13 @@
 
 This repo is meant to inventory work, drafts, meetings, etc. related to AINETOPS within the IETF. 
 
-This area is maintained by Qin Wu (bill.wu@huawei.com) and Dan King (d.king@lancaster.ac.uk). Please email them any missing work or meetings you would like to see included/linked in this repositry. 
+This repo is maintained by Qin Wu (bill.wu@huawei.com) and Dan King (d.king@lancaster.ac.uk). Please email them any missing work or meetings you would like to see included/linked in this repositry. 
 
-The following mailing list exist for discussion of AI techniques -- including but not limited to agentic and generative approaches -- as they relate to IETF-based network operations.
+The following mailing list exist for **discussion of AI techniques -- including but not limited to agentic and generative approaches -- as they relate to IETF-based network operations.**
 
 * [ainetops](https://mailman3.ietf.org/mailman3/lists/ainetops.ietf.org/)
 
-Several other IETF lists covering AI-topics may also be found at the end of this page.
+Several other IETF lists covering AI-topics may also be found at the [end of this page](#ai-related-mailing-lists).
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ Several other IETF lists covering AI-topics may also be found at the end of this
   - [Previous Side Meetings](#previous-side-meetings)
 - [Presentations](#presentations)
 - [Internet-Drafts](#internet-drafts)
-  - [Network Management](#network-management)
+  - [Network Operation](#network-management)
   - [Networking for AI / AIDC](#networking-for-ai--aidc)
   - [LLM/AI Benchmarking](#llmai-benchmarking)
   - [Discovery & Naming](#discovery--naming)
@@ -29,12 +29,14 @@ Several other IETF lists covering AI-topics may also be found at the end of this
 
 ## Meetings
 
-### Upcoming IETF Meetings
+### IETF Meetings
 
 * AINETOPS@IETF125 OPSAREA Session (03/2026): Operators Perspectices & Challenges ([Agenda](https://datatracker.ietf.org/meeting/125/materials/agenda-125-opsarea-01))(Slides)
 * [AINETOPS@IETF123 OPSAREA Session](https://datatracker.ietf.org/meeting/123/materials/slides-123-opsarea-2-state-of-the-opsarea-nation-04)(Slide 21) (07/2025) 
 
-### Previous Side Meetings
+### Side Meetings
+
+#### IETF#125
 
 #### IETF#124
 
@@ -56,7 +58,7 @@ Several other IETF lists covering AI-topics may also be found at the end of this
    + Scope: In-network computing has been being discussed to improve the overall performance in terms of the bandwidth consumed and/or latency when collective communications are used. The primary goals of this effort are to discuss the requirements, analysis and new technologies to optimize collective communications and to explore some usage expansion like data consistency to leverage the in-network computing capabilities.
     + [IETF#119 Material](https://github.com/CCO-IETF/ietf119-side-meeting/)
 
-* Large Language Model(LLM) for Networking 
+* Large Language Model (LLM) for Networking 
     + Scope: Explore the transformative potential of LLMs in the networking domain and open the discussion on potential standards for this topic.
     + [IETF#119 Slides](https://github.com/wangtz19/ietf-side-meetings) 
 
@@ -76,7 +78,7 @@ Several other IETF lists covering AI-topics may also be found at the end of this
 
 ## Internet-Drafts
 
-## Network Management
+### Network Operations
 
 * [draft-wmz-nmrg-agent-ndt-arch Network Digital](https://datatracker.ietf.org/doc/draft-wmz-nmrg-agent-ndt-arch): Network Digital Twin and Agentic AI based Architecture for AI driven Network Operations
 * [draft-hong-nmrg-agenticai-ps](https://datatracker.ietf.org/doc/draft-hong-nmrg-agenticai-ps): Motivations and Problem Statement of Agentic AI for network management
@@ -94,7 +96,7 @@ Several other IETF lists covering AI-topics may also be found at the end of this
 * [draft-irtf-nmrg-ai-deploy](https://datatracker.ietf.org/doc/draft-irtf-nmrg-ai-deploy): Considerations of network/system for AI services
 * [draft-pedro-nmrg-ai-framework](https://datatracker.ietf.org/doc/draft-pedro-nmrg-ai-framework): Artificial Intelligence Framework for Network Management
 
-## Networking for AI / AIDC
+### Networking for AI / AIDC
 
 * [draft-hu-rtgwg-cbfc-rsvp](https://datatracker.ietf.org/doc/draft-hu-rtgwg-cbfc-rsvp): Credit-based Flow Control Based on RSVP for RDMA transmission in WAN
 * [draft-hcl-rtgwg-ai-network-problem](https://datatracker.ietf.org/doc/draft-hcl-rtgwg-ai-network-problem): Gap Analysis, Problem Statement, and Requirements in AI Networks
@@ -102,31 +104,31 @@ Several other IETF lists covering AI-topics may also be found at the end of this
 * [draft-cheng-rtgwg-ai-network-reliability-problem](https://datatracker.ietf.org/doc/draft-cheng-rtgwg-ai-network-reliability-problem): Reliability in AI Networks Gap Analysis, Problem Statement, and Requirements
 * [draft-li-rtgwg-distributed-lossless-framework](https://datatracker.ietf.org/doc/draft-li-rtgwg-distributed-lossless-framework): Framework of Distributed AIDC Network
 
-## LLM/AI Benchmarking
+### LLM/AI Benchmarking
 
-### Terminology
+#### Terminology
 
  * [draft-gaikwad-llm-benchmarking-terminology](https://datatracker.ietf.org/doc/draft-gaikwad-llm-benchmarking-terminology/)
  * [draft-calabria-bmwg-ai-fabric-terminology/](https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-terminology/)
      
-### Methodology
+#### Methodology
 
   * [draft-gaikwad-llm-benchmarking-methodology](https://datatracker.ietf.org/doc/draft-gaikwad-llm-benchmarking-methodology/)
   * [draft-calabria-bmwg-ai-fabric-training-bench/](https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-training-bench/)
   * [draft-calabria-bmwg-ai-fabric-inference-bench/](https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-inference-bench/)
 
-### Profiles: SUT boundary definitions for model engines, AI firewall, AI gateways, etc.
+#### Profiles: SUT boundary definitions for model engines, AI firewall, AI gateways, etc.
 
   * [draft-gaikwad-llm-benchmarking-profiles](https://datatracker.ietf.org/doc/draft-gaikwad-llm-benchmarking-profiles/)
 
-## Discovery & Naming
+### Discovery & Naming
 
 * [draft-nandakumar-agent-sd-jwt](https://datatracker.ietf.org/doc/draft-nandakumar-agent-sd-jwt): SD Agent: Selective Disclosure for Agent Discovery and Identity Management
 * [draft-cui-dns-native-agent-naming-resolution](https://datatracker.ietf.org/doc/draft-cui-dns-native-agent-naming-resolution): DNS-Native AI Agent Naming and Resolution
 * [draft-mapmw-task-discovery](https://datatracker.ietf.org/doc/draft-mapmw-task-discovery): Task discovery in agentic networks
 * [draft-mp-agntcy-ads](https://datatracker.ietf.org/doc/draft-mp-agntcy-ads): Agent Directory Service
 
-## Transport
+### Transport
 
 * [draft-mpsb-agntcy-messaging](https://datatracker.ietf.org/doc/draft-mpsb-agntcy-messaging): An Overview of Messaging Systems and Their Applicability to Agentic AI
 * [draft-liu-agent-protocol-over-moq](https://datatracker.ietf.org/doc/draft-liu-agent-protocol-over-moq): Agent Protocol over MoQ
@@ -134,7 +136,7 @@ Several other IETF lists covering AI-topics may also be found at the end of this
 * [draft-jennings-ai-mcp-over-moq](https://datatracker.ietf.org/doc/draft-jennings-ai-mcp-over-moq): Model Context Protocol and Agent Skills over Media over QUIC Transport
 * [draft-wang-lisp-ai-agent](https://datatracker.ietf.org/doc/draft-wang-lisp-ai-agent): Using LISP as a Network Substrate for AI Agent Communication
 
-## Security (including Authentication & Authorization)
+### Security (including Authentication & Authorization)
 
 * [draft-klrc-aiagent-auth](https://datatracker.ietf.org/doc/draft-klrc-aiagent-auth): AI Agent Authentication and Authorization
 * [draft-mishra-oauth-agent-grants](https://datatracker.ietf.org/doc/draft-mishra-oauth-agent-grants): Delegated Agent Authorization Protocol (DAAP)
@@ -143,7 +145,7 @@ Several other IETF lists covering AI-topics may also be found at the end of this
 * [draft-chen-oauth-scope-agent-extensions](https://datatracker.ietf.org/doc/draft-chen-oauth-scope-agent-extensions): Structured and Constraint Extensions for OAuth Scopes
 * [draft-barney-caam](https://datatracker.ietf.org/doc/draft-barney-caam): Contextual Agent Authorization Mesh (CAAM)
 
-## Inter-Agent
+### Inter-Agent
 
 * [draft-hw-protocol-agent](https://datatracker.ietf.org/doc/draft-hw-protocol-agent)-00 AI Agent Protocols for Multi-modality
 * [draft-yao-catalist-problem-space-analysis](https://datatracker.ietf.org/doc/draft-yao-catalist-problem-space-analysis)-01 Problem Space Analysis of AI Agent Protocols in IETF
@@ -156,7 +158,7 @@ Several other IETF lists covering AI-topics may also be found at the end of this
 * [draft-nennemann-wimse-ect](https://datatracker.ietf.org/doc/draft-nennemann-wimse-ect): Execution Context Tokens for Distributed Agentic Workflows
 * [draft-song-dmsc-problem-statement](https://datatracker.ietf.org/doc/draft-song-dmsc-problem-statement): Problem Statement and Requirements for Dynamic Multi-agent Secured Collaboration (DMSC)
 
-## Misc
+### Misc
 
 * [draft-scrm-aiproto-usecases](https://datatracker.ietf.org/doc/draft-scrm-aiproto-usecases): Agentic AI Use Cases
 * [draft-dunbar-agent-attachment](https://datatracker.ietf.org/doc/draft-dunbar-agent-attachment): Agent Attachment Protocol
