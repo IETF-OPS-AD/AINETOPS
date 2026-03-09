@@ -24,6 +24,7 @@ Several other IETF lists covering AI-topics may also be found at the [end of thi
   - [Inter-Agent](#inter-agent)
   - [Misc](#misc)
 - [AI-related Mailing Lists](#ai-related-mailing-lists)
+- [Further AINETOPS Reading](#further-ainetops-reading)
       
 ## Presentations
 
@@ -128,3 +129,8 @@ Several other IETF lists covering AI-topics may also be found at the [end of thi
 * [ai-control](https://mailman3.ietf.org/mailman3/lists/ai-control.ietf.org/)
 * [aidc](https://mailman3.ietf.org/mailman3/lists/aidc.ietf.org/)
 * [pidloc](https://mailman3.ietf.org/mailman3/lists/pidloc.ietf.org/)
+
+## Further AINETOPS Reading
+
+* [Building the networks that build AI](https://storage.googleapis.com/site-media-prod/meetings/NANOG96/5627/20260202_Conrad_From_Datacenter_To_v1.pdf): From Datacenter to AI Center
+* [Beyond the Chip](https://storage.googleapis.com/site-media-prod/meetings/NANOG96/5612/20260202_Conrades_Keynote_Beyond_The_v1.pdf)
