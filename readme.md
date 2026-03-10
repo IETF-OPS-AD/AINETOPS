@@ -23,6 +23,7 @@ Several other IETF lists covering AI-topics may also be found at the [end of thi
   - [Security (including Authentication & Authorization)](#security-including-authentication--authorization)
   - [Inter-Agent](#inter-agent)
   - [Misc](#misc)
+- [Hackathons](#hackathons)
 - [AI-related Mailing Lists](#ai-related-mailing-lists)
 - [Further AINETOPS Reading](#further-ainetops-reading)
       
@@ -122,6 +123,17 @@ Several other IETF lists covering AI-topics may also be found at the [end of thi
 * [draft-birkholz-verifiable-agent-conversations](https://datatracker.ietf.org/doc/draft-birkholz-verifiable-agent-conversations): Verifiable Agent Conversation Records
 * [draft-bondar-wca](https://datatracker.ietf.org/doc/draft-bondar-wca): Warrant Certificate Authorities (WCA): Auditable Data Provenance for AI-Agent Tool-Call Chains
 * [draft-ni-wimse-ai-agent-identity](https://datatracker.ietf.org/doc/draft-ni-wimse-ai-agent-identity): WIMSE Applicability for AI Agents
+
+## Hackathons
+
+### IETF-125
+
+* [Agent Communication Framework for Network AIOps](https://wiki.ietf.org/en/meeting/125/hackathon#agent-communication-framework-for-network-aiops)
+* [LLM Driven Automated Network Protocol Testing](https://wiki.ietf.org/en/meeting/125/hackathon#llm-driven-automated-network-protocol-testing)
+* [E2E SRv6 for AI service access with quality and security assurance](https://wiki.ietf.org/en/meeting/125/hackathon#e2e-srv6-for-ai-service-access-with-quality-and-security-assurance)
+* [Knowledge Graph Enhanced Network Management](https://wiki.ietf.org/en/meeting/125/hackathon#knowledge-graph-enhanced-network-management)
+* [Enhancing LLMs for Network Traffic Analysis (TrafficLLM)](https://wiki.ietf.org/en/meeting/125/hackathon#enhancing-llms-for-network-traffic-analysis-trafficllm)
+* [Task Discovery in AI Network](https://wiki.ietf.org/en/meeting/125/hackathon#task-discovery-in-ai-network)
 
 ## AI-related Mailing Lists
 
