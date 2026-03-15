@@ -67,14 +67,6 @@ Several other IETF lists covering AI-topics may also be found at the [end of thi
 
   * [draft-gaikwad-llm-benchmarking-profiles](https://datatracker.ietf.org/doc/draft-gaikwad-llm-benchmarking-profiles/)
 
-### Networking for AI / AIDC
-
-* [draft-hu-rtgwg-cbfc-rsvp](https://datatracker.ietf.org/doc/draft-hu-rtgwg-cbfc-rsvp): Credit-based Flow Control Based on RSVP for RDMA transmission in WAN
-* [draft-hcl-rtgwg-ai-network-problem](https://datatracker.ietf.org/doc/draft-hcl-rtgwg-ai-network-problem): Gap Analysis, Problem Statement, and Requirements in AI Networks
-* [draft-hcl-rtgwg-osf-framework](https://datatracker.ietf.org/doc/draft-hcl-rtgwg-osf-framework): An OSF Framework for Artificial Intelligence (AI) Network
-* [draft-cheng-rtgwg-ai-network-reliability-problem](https://datatracker.ietf.org/doc/draft-cheng-rtgwg-ai-network-reliability-problem): Reliability in AI Networks Gap Analysis, Problem Statement, and Requirements
-* [draft-li-rtgwg-distributed-lossless-framework](https://datatracker.ietf.org/doc/draft-li-rtgwg-distributed-lossless-framework): Framework of Distributed AIDC Network
-* [draft-du-catalist-routing-considerations](https://datatracker.ietf.org/doc/draft-du-catalist-routing-considerations): Routing Considerations in Agentic Network
 
 ### Discovery & Naming
 
@@ -115,6 +107,15 @@ Several other IETF lists covering AI-topics may also be found at the [end of thi
 * [draft-nennemann-wimse-ect](https://datatracker.ietf.org/doc/draft-nennemann-wimse-ect): Execution Context Tokens for Distributed Agentic Workflows
 * [draft-song-dmsc-problem-statement](https://datatracker.ietf.org/doc/draft-song-dmsc-problem-statement): Problem Statement and Requirements for Dynamic Multi-agent Secured Collaboration (DMSC)
 * [draft-verma-dmsc-nlip-notes](https://datatracker.ietf.org/doc/draft-verma-dmsc-nlip-notes/): Use of Natural Language for Agent Communication
+
+### Networking for AI / AIDC
+
+* [draft-hu-rtgwg-cbfc-rsvp](https://datatracker.ietf.org/doc/draft-hu-rtgwg-cbfc-rsvp): Credit-based Flow Control Based on RSVP for RDMA transmission in WAN
+* [draft-hcl-rtgwg-ai-network-problem](https://datatracker.ietf.org/doc/draft-hcl-rtgwg-ai-network-problem): Gap Analysis, Problem Statement, and Requirements in AI Networks
+* [draft-hcl-rtgwg-osf-framework](https://datatracker.ietf.org/doc/draft-hcl-rtgwg-osf-framework): An OSF Framework for Artificial Intelligence (AI) Network
+* [draft-cheng-rtgwg-ai-network-reliability-problem](https://datatracker.ietf.org/doc/draft-cheng-rtgwg-ai-network-reliability-problem): Reliability in AI Networks Gap Analysis, Problem Statement, and Requirements
+* [draft-li-rtgwg-distributed-lossless-framework](https://datatracker.ietf.org/doc/draft-li-rtgwg-distributed-lossless-framework): Framework of Distributed AIDC Network
+* [draft-du-catalist-routing-considerations](https://datatracker.ietf.org/doc/draft-du-catalist-routing-considerations): Routing Considerations in Agentic Network
 
 ### Misc
 
