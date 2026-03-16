@@ -144,6 +144,7 @@ Several other IETF lists covering AI-topics may also be found at the [end of thi
 * [ai-control](https://mailman3.ietf.org/mailman3/lists/ai-control.ietf.org/)
 * [aidc](https://mailman3.ietf.org/mailman3/lists/aidc.ietf.org/)
 * [pidloc](https://mailman3.ietf.org/mailman3/lists/pidloc.ietf.org/)
+* [Multicast for AI](https://mailarchive.ietf.org/arch/browse/mcast4ai/)
 
 ## Further AINETOPS Reading
 
