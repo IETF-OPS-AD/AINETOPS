@@ -33,6 +33,12 @@ Several other IETF lists covering AI-topics may also be found at the [end of thi
 
 ### Network Operations
 
+* [draft-king-rokui-ainetops-usecases](https://datatracker.ietf.org/doc/draft-king-rokui-ainetops-usecases): Artificial Intelligence (AI) for Network Operations
+* [draft-zeng-opsawg-applicability-mcp-a2a](https://datatracker.ietf.org/doc/draft-zeng-opsawg-applicability-mcp-a2a/): When NETCONF Is Not Enough: Applicability of MCP and A2A for Advanced Network Management Scenarios
+* [draft-zeng-opsawg-llm-netconf-gap](https://datatracker.ietf.org/doc/draft-zeng-opsawg-llm-netconf-gap/): Gap Analysis of Network Configuration Protocols in LLM-Driven Intent-Based Networking
+* [draft-zw-opsawg-mcp-network-mgmt](https://datatracker.ietf.org/doc/draft-zw-opsawg-mcp-network-mgmt/): Model Context Protocol (MCP) Extensions for Network Equipment Management
+* [draft-zhao-nmop-network-management-agent](https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent):  AI based Network Management Agent(NMA): Concepts and Architecture
+* [draft-zhao-ccamp-actn-optical-network-agent](https://datatracker.ietf.org/doc/draft-zhao-ccamp-actn-optical-network-agent): Integration of Network Management Agent (NMA) into ACTN-Based Optical Network
 * [draft-wmz-nmrg-agent-ndt-arch Network Digital](https://datatracker.ietf.org/doc/draft-wmz-nmrg-agent-ndt-arch): Network Digital Twin and Agentic AI based Architecture for AI driven Network Operations
 * [draft-hong-nmrg-agenticai-ps](https://datatracker.ietf.org/doc/draft-hong-nmrg-agenticai-ps): Motivations and Problem Statement of Agentic AI for network management
 * [draft-yang-nmrg-mcp-nm](https://datatracker.ietf.org/doc/draft-yang-nmrg-mcp-nm): Applicability of MCP for the Network Management
@@ -41,9 +47,6 @@ Several other IETF lists covering AI-topics may also be found at the [end of thi
 * [draft-zhao-nmrg-ai-agent-for-ndt](https://datatracker.ietf.org/doc/draft-zhao-nmrg-ai-agent-for-ndt): AI Agent Architecture for Network Digital Twin
 * [draft-bernardos-nmrg-agentic-network-optimization](https://datatracker.ietf.org/doc/draft-bernardos-nmrg-agentic-network-optimization): Solutions for enabling agentic sensing with network optimization
 * [draft-chuyi-nmrg-agentic-network-inference](https://datatracker.ietf.org/doc/draft-chuyi-nmrg-agentic-network-inference): Agentic Network Architecture and Protocol for Supporting Agent Interconnection Communication and Multi-level Inference 
-* [draft-zhao-ccamp-actn-optical-network-agent](https://datatracker.ietf.org/doc/draft-zhao-ccamp-actn-optical-network-agent): Integration of Network Management Agent (NMA) into ACTN-Based Optical Network
-* [draft-zhao-nmop-network-management-agent](https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent):  AI based Network Management Agent(NMA): Concepts and Architecture
-* [draft-king-rokui-ainetops-usecases](https://datatracker.ietf.org/doc/draft-king-rokui-ainetops-usecases): Artificial Intelligence (AI) for Network Operations
 * [draft-irtf-nmrg-ai-challenges](https://datatracker.ietf.org/doc/draft-irtf-nmrg-ai-challenges): Research Challenges in Coupling Artificial Intelligence and Network Management
 * [draft-irtf-nmrg-llm-nm](https://datatracker.ietf.org/doc/draft-irtf-nmrg-llm-nm): A Framework for LLM-Assisted Network Management with Human-in-the-Loop
 * [draft-irtf-nmrg-ai-deploy](https://datatracker.ietf.org/doc/draft-irtf-nmrg-ai-deploy): Considerations of network/system for AI services
