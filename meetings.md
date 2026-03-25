@@ -9,6 +9,8 @@
 
 ### IETF-125
 
+* Multicast for AI networks ([material](https://github.com/MCAST4AI/IETF-MCAST4AI/tree/main/IETF125/SideMeeting))
+
 ### IETF-124
 
 ### IETF-123
