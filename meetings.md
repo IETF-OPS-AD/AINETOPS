@@ -10,6 +10,7 @@
 ### IETF-125
 
 * Multicast for AI networks ([material](https://github.com/MCAST4AI/IETF-MCAST4AI/tree/main/IETF125/SideMeeting))
+* AI Agents Security ([material](https://github.com/liuchunchi/IETF125-AI-Agent-Security-Side-Meeting))
 
 ### IETF-124
 
