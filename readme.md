@@ -69,6 +69,7 @@ Several other IETF lists covering AI-topics may also be found at the [end of thi
 #### Profiles: SUT boundary definitions for model engines, AI firewall, AI gateways, etc.
 
   * [draft-gaikwad-llm-benchmarking-profiles](https://datatracker.ietf.org/doc/draft-gaikwad-llm-benchmarking-profiles/)
+  * [draft-mondal-llm-serving-workload-profiles](https://datatracker.ietf.org/doc/draft-mondal-llm-serving-workload-profiles/)
 
 
 ### Discovery & Naming
