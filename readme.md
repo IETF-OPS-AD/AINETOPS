@@ -17,10 +17,10 @@ Several other IETF lists covering AI-topics may also be found at the [end of thi
 - [Internet-Drafts](#internet-drafts)
   - [Network Operation](#network-operations) (OPS)
   - [LLM/AI Benchmarking](#llmai-benchmarking) (OPS)
-  - [Discovery & Naming](#discovery--naming)
-  - [Transport](#transport)
+  - [Discovery & Naming](#discovery--naming) (Discussion in DAWN)
+  - [Transport](#transport) (Discussion in Agent2Agent)
   - [Security (including Authentication & Authorization)](#security-including-authentication--authorization)
-  - [Inter-Agent](#inter-agent)
+  - [Inter-Agent](#inter-agent) (Discussion in Agent2Agent)
   - [Networking for AI / AIDC](#networking-for-ai--aidc)
   - [Misc](#misc)
 - [Hackathons](#hackathons)
@@ -144,6 +144,7 @@ Several other IETF lists covering AI-topics may also be found at the [end of thi
 ## AI-related Mailing Lists
 
 * [ainetops](https://mailman3.ietf.org/mailman3/lists/ainetops.ietf.org/)
+* [dawn](https://mailman3.ietf.org/mailman3/lists/dawn.ietf.org/)
 * [agent2agent](https://mailman3.ietf.org/mailman3/lists/agent2agent.ietf.org/)
 * [ai-control](https://mailman3.ietf.org/mailman3/lists/ai-control.ietf.org/)
 * [aidc](https://mailman3.ietf.org/mailman3/lists/aidc.ietf.org/)
