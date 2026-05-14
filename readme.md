@@ -52,6 +52,7 @@ Several other IETF lists covering AI-topics may also be found at the [end of thi
 * [draft-bernardos-nmrg-agentic-network-optimization](https://datatracker.ietf.org/doc/draft-bernardos-nmrg-agentic-network-optimization): Solutions for enabling agentic sensing with network optimization
 * [draft-chuyi-nmrg-agentic-network-inference](https://datatracker.ietf.org/doc/draft-chuyi-nmrg-agentic-network-inference): Agentic Network Architecture and Protocol for Supporting Agent Interconnection Communication and Multi-level Inference 
 * [draft-pedro-nmrg-ai-framework](https://datatracker.ietf.org/doc/draft-pedro-nmrg-ai-framework): Artificial Intelligence Framework for Network Management
+* [draft-cui-nmrg-auto-test](https://datatracker.ietf.org/doc/draft-cui-nmrg-auto-test): Framework and Automation Levels for AI-Assisted Network Protocol Testing
 
 
 ### LLM/AI Benchmarking
