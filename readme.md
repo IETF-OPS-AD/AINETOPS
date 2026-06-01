@@ -20,7 +20,8 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
   - [Discovery & Naming](#discovery--naming) (Discussion in DAWN)
   - [Transport](#transport) (Discussion in Agent2Agent)
   - [Security (including Authentication & Authorization)](#security-including-authentication--authorization)
-  - [Inter-Agent](#inter-agent) (Discussion in Agent2Agent)
+  - [Observability Invention and Control](OPS)
+  - [Inter-Agent Communication](#inter-agent) (Discussion in Agent2Agent)
   - [Networking for AI / AIDC](#networking-for-ai--aidc)
   - [Misc](#misc)
 - [Hackathons](#hackathons)
@@ -66,22 +67,29 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 
 ### LLM/AI Benchmarking
 
-#### Terminology
+#### AI for Networking
+##### Terminology
 
  * [draft-gaikwad-llm-benchmarking-terminology](https://datatracker.ietf.org/doc/draft-gaikwad-llm-benchmarking-terminology/)
- * [draft-calabria-bmwg-ai-fabric-terminology/](https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-terminology/)
-     
-#### Methodology
+
+##### Methodology
 
   * [draft-gaikwad-llm-benchmarking-methodology](https://datatracker.ietf.org/doc/draft-gaikwad-llm-benchmarking-methodology/)
-  * [draft-calabria-bmwg-ai-fabric-training-bench/](https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-training-bench/)
-  * [draft-calabria-bmwg-ai-fabric-inference-bench/](https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-inference-bench/)
 
-#### Profiles: SUT boundary definitions for model engines, AI firewall, AI gateways, etc.
+##### Profiles: SUT boundary definitions for model engines, AI firewall, AI gateways, etc.
 
   * [draft-gaikwad-llm-benchmarking-profiles](https://datatracker.ietf.org/doc/draft-gaikwad-llm-benchmarking-profiles/)
   * [draft-mondal-llm-serving-workload-profiles](https://datatracker.ietf.org/doc/draft-mondal-llm-serving-workload-profiles/)
 
+#### Network for AI
+#### Terminology
+
+ * [draft-calabria-bmwg-ai-fabric-terminology/](https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-terminology/)
+     
+#### Methodology
+
+  * [draft-calabria-bmwg-ai-fabric-training-bench/](https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-training-bench/)
+  * [draft-calabria-bmwg-ai-fabric-inference-bench/](https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-inference-bench/)
 
 ### Discovery & Naming
 
@@ -108,8 +116,13 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-barney-caam](https://datatracker.ietf.org/doc/draft-barney-caam): Contextual Agent Authorization Mesh (CAAM)
 * [draft-sarischo-6gip-aiml-security-privacy](https://datatracker.ietf.org/doc/draft-sarischo-6gip-aiml-security-privacy): Security and Privacy Implications of 3GPP AI/ML Services for 6G
 
+### Observability, Intervention and Control
 
-### Inter-Agent
+* [draft-sato-soos-hem] (https://datatracker.ietf.org/doc/draft-sato-soos-hem): The Human Escalation Mechanism (HEM) for Agentic AI Systems
+* [draft-sato-soos-pt] (https://datatracker.ietf.org/doc/draft-sato-soos-pt): Progressive Trust (PT) for Agentic AI Governance Systems
+* [draft-wnd-icon-problem-statement] (https://github.com/billwuqin/ICON-problem-statement/blob/main/draft-wnd-icon-problem-statement.md): Problem Statement for Observability, Intervention and Control (I&C) in Multi-Agent Autonomous Networks
+
+### Inter-Agent Communication
 
 * [draft-hw-protocol-agent](https://datatracker.ietf.org/doc/draft-hw-protocol-agent): AI Agent Protocols for Multi-modality
 * [draft-yao-catalist-problem-space-analysis](https://datatracker.ietf.org/doc/draft-yao-catalist-problem-space-analysis): Problem Space Analysis of AI Agent Protocols in IETF
