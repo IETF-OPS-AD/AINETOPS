@@ -20,8 +20,8 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
   - [Discovery & Naming](#discovery--naming) (Discussion in DAWN)
   - [Transport](#transport) (Discussion in Agent2Agent)
   - [Security (including Authentication & Authorization)](#security-including-authentication--authorization)
-  - [Observability Invention and Control](OPS)
-  - [Inter-Agent Communication](#inter-agent) (Discussion in Agent2Agent)
+  - [Observability Invention and Control](#observability-intervention-and-control) (OPS)
+  - [Inter-Agent Communication](#inter-agent-communication) (Discussion in Agent2Agent)
   - [Networking for AI / AIDC](#networking-for-ai--aidc)
   - [Misc](#misc)
 - [Hackathons](#hackathons)
@@ -118,9 +118,9 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 
 ### Observability, Intervention and Control
 
-* [draft-sato-soos-hem] (https://datatracker.ietf.org/doc/draft-sato-soos-hem): The Human Escalation Mechanism (HEM) for Agentic AI Systems
-* [draft-sato-soos-pt] (https://datatracker.ietf.org/doc/draft-sato-soos-pt): Progressive Trust (PT) for Agentic AI Governance Systems
-* [draft-wnd-icon-problem-statement] (https://github.com/billwuqin/ICON-problem-statement/blob/main/draft-wnd-icon-problem-statement.md): Problem Statement for Observability, Intervention and Control (I&C) in Multi-Agent Autonomous Networks
+* [draft-sato-soos-hem](https://datatracker.ietf.org/doc/draft-sato-soos-hem): The Human Escalation Mechanism (HEM) for Agentic AI Systems
+* [draft-sato-soos-pt](https://datatracker.ietf.org/doc/draft-sato-soos-pt): Progressive Trust (PT) for Agentic AI Governance Systems
+* [draft-wnd-icon-problem-statement](https://github.com/billwuqin/ICON-problem-statement/blob/main/draft-wnd-icon-problem-statement.md): Problem Statement for Observability, Intervention and Control (I&C) in Multi-Agent Autonomous Networks
 
 ### Inter-Agent Communication
 
