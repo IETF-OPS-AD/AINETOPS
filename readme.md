@@ -98,10 +98,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 
 ### Discovery & Naming
 
-* [draft-nandakumar-agent-sd-jwt](https://datatracker.ietf.org/doc/draft-nandakumar-agent-sd-jwt): SD Agent: Selective Disclosure for Agent Discovery and Identity Management
-* [draft-cui-dns-native-agent-naming-resolution](https://datatracker.ietf.org/doc/draft-cui-dns-native-agent-naming-resolution): DNS-Native AI Agent Naming and Resolution
-* [draft-mapmw-task-discovery](https://datatracker.ietf.org/doc/draft-mapmw-task-discovery): Task discovery in agentic networks
-* [draft-mp-agntcy-ads](https://datatracker.ietf.org/doc/draft-mp-agntcy-ads): Agent Directory Service
+* Detailed [list](https://github.com/danielkinguk/discovery/blob/main/solutions-list.md)
 
 ### Transport
 
