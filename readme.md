@@ -20,7 +20,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
   - [Discovery & Naming](#discovery--naming) (Discussion in DAWN)
   - [Transport](#transport) (Discussion in Agent2Agent)
   - [Security (including Authentication & Authorization)](#security-including-authentication--authorization)
-  - [Observability Invention and Control](#observability-intervention-and-control) (OPS)
+  - [Observability Intervention and Control](#observability-intervention-and-control) (OPS)
   - [Inter-Agent Communication](#inter-agent-communication) (Discussion in Agent2Agent)
   - [Networking for AI / AIDC](#networking-for-ai--aidc)
   - [Misc](#misc)
