@@ -145,7 +145,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-ni-wimse-ai-agent-identity](https://datatracker.ietf.org/doc/draft-ni-wimse-ai-agent-identity): WIMSE Applicability for AI Agents
 
 ### Observability, Intervention and Control
-* [draft-wnd-opsawg-icon-ps](https://datatracker.ietf.org/doc/draft-wnd-opsawg-icon-ps/)Problem Statement for Observability, Intervention and Control (I&C) in Multi-Agent Autonomous Networks
+* [draft-wnd-opsawg-icon-ps](https://datatracker.ietf.org/doc/draft-wnd-opsawg-icon-ps/): Problem Statement for Observability, Intervention and Control (I&C) in Multi-Agent Autonomous Networks
 * [draft-mcw-opsawg-icon-requirements](https://datatracker.ietf.org/doc/draft-mcw-opsawg-icon-requirements/)): Architecture and Requirements for Observability, Control and Intervention of Network Management Agents
 * [draft-verma-dmsc-nlip-notes](https://datatracker.ietf.org/doc/draft-verma-dmsc-nlip-notes/): Use of Natural Language for Agent Communication
 * [draft-prabhu-nmrg-prompt-schema-llm](https://datatracker.ietf.org/doc/draft-prabhu-nmrg-prompt-schema-llm/): Framework for Normalizing Multi-Vendor Network Inputs for LLM-Assisted Network Management
