@@ -22,8 +22,9 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
   - [Security (including Authentication & Authorization)](#security-including-authentication--authorization)
   - [Observability Intervention and Control](#observability-intervention-and-control) (OPS)
   - [Inter-Agent Communication](#inter-agent-communication) (Discussion in Agent2Agent)
-  - [Networking for AI / AIDC](#networking-for-ai--aidc)
   - [Misc](#misc)
+      - [Networking for AI / AIDC](#networking-for-ai--aidc)
+- [Side Meetings](#side-meetings)
 - [Hackathons](#hackathons)
 - [Incoming IETF Liaison Statements](#incoming-ietf-liaison-statements)
 - [AI-related Mailing Lists](#ai-related-mailing-lists)
@@ -34,19 +35,28 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 ## Internet-Drafts
 
 ### Network Operations
-
+#### Research Topics
+* [draft-irtf-nmrg-ai-challenges](https://datatracker.ietf.org/doc/draft-irtf-nmrg-ai-challenges): Research Challenges in Coupling Artificial Intelligence and Network Management
+* [draft-irtf-nmrg-ai-deploy](https://datatracker.ietf.org/doc/draft-irtf-nmrg-ai-deploy): Considerations of network/system for AI services
+* [draft-irtf-nmrg-ibn-usecases](https://datatracker.ietf.org/doc/draft-irtf-nmrg-ibn-usecases): Use Cases and Practices for Intent-Based Networking
+* [draft-janz-nmrg-inter-agent-conflict-resolution](https://datatracker.ietf.org/doc/draft-janz-nmrg-inter-agent-conflict-resolution): Sources of Inter-Agent Conflicts and Approaches to Conflict Resolution in Network Management
+* [draft-janz-nmrg-naas-agentic-negotiation](https://datatracker.ietf.org/doc/draft-janz-nmrg-naas-agentic-negotiation): Dynamic Network-as-a-Service Life-Cycle Automation Using End-to-End Agent Negotiation
+* [draft-janz-nmrg-ontology-reconciliation](https://datatracker.ietf.org/doc/draft-janz-nmrg-ontology-reconciliation):  Describes a possible direction for inter-system
+* [draft-wmz-nmrg-agent-ndt-arch](https://datatracker.ietf.org/doc/draft-wmz-nmrg-agent-ndt-arch): Network Digital Twin and Agentic AI-based Architecture for AI-driven Network Operations
+* [draft-hong-nmrg-agenticai-ps](https://datatracker.ietf.org/doc/draft-hong-nmrg-agenticai-ps): Motivations and Problem Statement of Agentic AI for network management
+* [draft-jadoon-nmrg-agentic-ai-autonomous-networks](https://datatracker.ietf.org/doc/draft-jadoon-nmrg-agentic-ai-autonomous-networks): Agentic AI Architectural Principles for Autonomous Computer Networks
+* [draft-april-cmie-research-problem](https://datatracker.ietf.org/doc/draft-april-cmie-research-problem): Constrained Manifold Inference Engine (CMIE): A Research Problem for Deterministic AI-Network Resilience
+* [draft-pedro-nmrg-ai-framework](https://datatracker.ietf.org/doc/draft-pedro-nmrg-ai-framework): Artificial Intelligence Framework for Network Management
+* 
+#### Engineering Topics
 * [draft-king-rokui-ainetops-usecases](https://datatracker.ietf.org/doc/draft-king-rokui-ainetops-usecases): Artificial Intelligence (AI) for Network Operations
-* [draft-zeng-opsawg-applicability-mcp-a2a](https://datatracker.ietf.org/doc/draft-zeng-opsawg-applicability-mcp-a2a/): When NETCONF Is Not Enough: Applicability of MCP and A2A for Advanced Network Management Scenarios
+* [draft-zeng-opsawg-applicability-mcp-a2a](https://datatracker.ietf.org/doc/draft-zeng-opsawg-applicability-mcp-a2a/): When NETCONF Is Not Enough: Applicability of MCP and A2A for Advanced Network
+   Management Scenarios
 * [draft-zeng-opsawg-llm-netconf-gap](https://datatracker.ietf.org/doc/draft-zeng-opsawg-llm-netconf-gap/): Gap Analysis of Network Configuration Protocols in LLM-Driven Intent-Based Networking
 * [draft-zw-opsawg-mcp-network-mgmt](https://datatracker.ietf.org/doc/draft-zw-opsawg-mcp-network-mgmt/): Model Context Protocol (MCP) Extensions for Network Equipment Management
 * [draft-zhao-nmop-network-management-agent](https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent): AI-based Network Management Agent (NMA): Concepts and Architecture
 * [draft-zhao-ccamp-actn-optical-network-agent](https://datatracker.ietf.org/doc/draft-zhao-ccamp-actn-optical-network-agent): Integration of Network Management Agent (NMA) into ACTN-Based Optical Network
-* [draft-irtf-nmrg-ai-challenges](https://datatracker.ietf.org/doc/draft-irtf-nmrg-ai-challenges): Research Challenges in Coupling Artificial Intelligence and Network Management
 * [draft-irtf-nmrg-llm-nm](https://datatracker.ietf.org/doc/draft-irtf-nmrg-llm-nm): A Framework for LLM-Assisted Network Management with Human-in-the-Loop
-* [draft-irtf-nmrg-ai-deploy](https://datatracker.ietf.org/doc/draft-irtf-nmrg-ai-deploy): Considerations of network/system for AI services
-* [draft-irtf-nmrg-ibn-usecases](https://datatracker.ietf.org/doc/draft-irtf-nmrg-ibn-usecases): Use Cases and Practices for Intent-Based Networking
-* [draft-wmz-nmrg-agent-ndt-arch](https://datatracker.ietf.org/doc/draft-wmz-nmrg-agent-ndt-arch): Network Digital Twin and Agentic AI-based Architecture for AI-driven Network Operations
-* [draft-hong-nmrg-agenticai-ps](https://datatracker.ietf.org/doc/draft-hong-nmrg-agenticai-ps): Motivations and Problem Statement of Agentic AI for network management
 * [draft-cgfabk-nmrg-ibn-generative-ai](https://datatracker.ietf.org/doc/draft-cgfabk-nmrg-ibn-generative-ai): Generative AI for Intent-Based Networking
 * [draft-feng-nmrg-ain-architecture](https://datatracker.ietf.org/doc/draft-feng-nmrg-ain-architecture): Agentic Intent Network (AIN) Architecture
 * [draft-feng-nmrg-ain-deployment](https://datatracker.ietf.org/doc/draft-feng-nmrg-ain-deployment): Agentic Intent Network (AIN): Applicability and Deployment Scenarios
@@ -55,20 +65,14 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-prabhu-nmrg-prompt-schema-llm](https://datatracker.ietf.org/doc/draft-prabhu-nmrg-prompt-schema-llm/): Framework for Normalizing Multi-Vendor Network Inputs for LLM-Assisted Network Management
 * [draft-yang-nmrg-mcp-nm](https://datatracker.ietf.org/doc/draft-yang-nmrg-mcp-nm): Applicability of MCP for the Network Management
 * [draft-yang-nmrg-a2a-nm](https://datatracker.ietf.org/doc/draft-yang-nmrg-a2a-nm): Applicability of A2A to the Network Management
-* [draft-jadoon-nmrg-agentic-ai-autonomous-networks](https://datatracker.ietf.org/doc/draft-jadoon-nmrg-agentic-ai-autonomous-networks): Agentic AI Architectural Principles for Autonomous Computer Networks
 * [draft-zhao-nmrg-ai-agent-for-ndt](https://datatracker.ietf.org/doc/draft-zhao-nmrg-ai-agent-for-ndt): AI Agent Architecture for Network Digital Twin
 * [draft-bernardos-nmrg-agentic-network-optimization](https://datatracker.ietf.org/doc/draft-bernardos-nmrg-agentic-network-optimization): Solutions for enabling agentic sensing with network optimization
-* [draft-chuyi-nmrg-agentic-network-inference](https://datatracker.ietf.org/doc/draft-chuyi-nmrg-agentic-network-inference): Agentic Network Architecture and Protocol for Supporting Agent Interconnection Communication and Multi-level Inference 
-* [draft-pedro-nmrg-ai-framework](https://datatracker.ietf.org/doc/draft-pedro-nmrg-ai-framework): Artificial Intelligence Framework for Network Management
+* [draft-chuyi-nmrg-agentic-network-inference](https://datatracker.ietf.org/doc/draft-chuyi-nmrg-agentic-network-inference): Agentic Network Architecture and Protocol for Supporting Agent Interconnection
+  Communication and Multi-level Inference
 * [draft-cui-nmrg-auto-test](https://datatracker.ietf.org/doc/draft-cui-nmrg-auto-test): Framework and Automation Levels for AI-Assisted Network Protocol Testing
 * [draft-mackey-nmop-kg-for-netops](https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops): Knowledge Graph Framework for Network Operations
 * [draft-smith-opsawg-ai-network-governance](https://datatracker.ietf.org/doc/draft-smith-opsawg-ai-network-governance): Governance Framework for AI-Mediated Autonomous Network Device Management
-* [draft-janz-nmrg-inter-agent-conflict-resolution](https://datatracker.ietf.org/doc/draft-janz-nmrg-inter-agent-conflict-resolution): Sources of Inter-Agent Conflicts and Approaches to Conflict Resolution in Network Management
-* [draft-janz-nmrg-naas-agentic-negotiation](https://datatracker.ietf.org/doc/draft-janz-nmrg-naas-agentic-negotiation): Dynamic Network-as-a-Service Life-Cycle Automation Using End-to-End Agent Negotiation
-* [draft-janz-nmrg-ontology-reconciliation](https://datatracker.ietf.org/doc/draft-janz-nmrg-ontology-reconciliation):  Describes a possible direction for inter-system
    communication in network management. 
-* [draft-april-cmie-research-problem](https://datatracker.ietf.org/doc/draft-april-cmie-research-problem): Constrained Manifold Inference Engine (CMIE): A Research Problem for Deterministic AI-Network Resilience
-
 
 ### LLM/AI Benchmarking
 
@@ -80,6 +84,8 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 ##### Methodology
 
   * [draft-gaikwad-llm-benchmarking-methodology](https://datatracker.ietf.org/doc/draft-gaikwad-llm-benchmarking-methodology/)
+  * [draft-contreras-bmwg-ai-agent-benchmarking](https://datatracker.ietf.org/doc/draft-contreras-bmwg-ai-agent-benchmarking/)
+  * [draft-han-bmwg-agent-security-benchmark] (https://datatracker.ietf.org/doc/draft-han-bmwg-agent-security-benchmark/)
 
 ##### Profiles: SUT boundary definitions for model engines, AI firewall, AI gateways, etc.
 
@@ -99,6 +105,18 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 ### Discovery & Naming
 
 * Detailed [list](https://github.com/danielkinguk/discovery/blob/main/solutions-list.md)
+* [draft-jakab-dawn-agent-discovery-mdns] (https://datatracker.ietf.org/doc/draft-jakab-dawn-agent-discovery-mdns/)
+* [draft-yao-dawn-agent-discovery-architect](https://datatracker.ietf.org/doc/draft-yao-dawn-agent-discovery-architect/)
+* [draft-farrel-dawn-terminology](https://datatracker.ietf.org/doc/draft-farrel-dawn-terminology/)
+* [draft-cui-dawn-mdi-model](https://datatracker.ietf.org/doc/draft-cui-dawn-mdi-model/)
+* [draft-jimenez-dawn-discovery-landscape](https://datatracker.ietf.org/doc/draft-jimenez-dawn-discovery-landscape/)
+* [draft-he-dawn-ipv6-agent-aware-framework](https://datatracker.ietf.org/doc/draft-he-dawn-ipv6-agent-aware-framework/)
+* [draft-akhavain-moussa-dawn-problem-statement](https://datatracker.ietf.org/doc/draft-akhavain-moussa-dawn-problem-statement/)
+* [draft-moussa-dawn-gap-analysis](https://datatracker.ietf.org/doc/draft-moussa-dawn-gap-analysis/)
+* [draft-kay-dawn-use-cases](https://datatracker.ietf.org/doc/draft-kay-dawn-use-cases/)
+* [draft-seethiraju-dawn-dan](https://datatracker.ietf.org/doc/draft-seethiraju-dawn-dan/)
+* [draft-iannone-dawn-privacy-considerations](https://datatracker.ietf.org/doc/draft-iannone-dawn-privacy-considerations/)
+* [draft-king-dawn-requirements](https://datatracker.ietf.org/doc/draft-king-dawn-requirements/)
 
 ### Transport
 
@@ -107,6 +125,8 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-nandakumar-ai-agent-moq-transport](https://datatracker.ietf.org/doc/draft-nandakumar-ai-agent-moq-transport): MoQ Transport for Agent Protocols
 * [draft-jennings-ai-mcp-over-moq](https://datatracker.ietf.org/doc/draft-jennings-ai-mcp-over-moq): Model Context Protocol and Agent Skills over Media over QUIC Transport
 * [draft-wang-lisp-ai-agent](https://datatracker.ietf.org/doc/draft-wang-lisp-ai-agent): Using LISP as a Network Substrate for AI Agent Communication
+* [draft-mpsb-agntcy-slim](https://datatracker.ietf.org/doc/draft-mpsb-agntcy-slim)
+* [draft-ietf-slim-use-cases](https://datatracker.ietf.org/doc/draft-ietf-slim-use-cases)
 
 ### Security (including Authentication & Authorization)
 
@@ -117,12 +137,16 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-chen-oauth-scope-agent-extensions](https://datatracker.ietf.org/doc/draft-chen-oauth-scope-agent-extensions): Structured and Constraint Extensions for OAuth Scopes
 * [draft-barney-caam](https://datatracker.ietf.org/doc/draft-barney-caam): Contextual Agent Authorization Mesh (CAAM)
 * [draft-sarischo-6gip-aiml-security-privacy](https://datatracker.ietf.org/doc/draft-sarischo-6gip-aiml-security-privacy): Security and Privacy Implications of 3GPP AI/ML Services for 6G
+* [draft-birkholz-verifiable-agent-conversations](https://datatracker.ietf.org/doc/draft-birkholz-verifiable-agent-conversations): Verifiable Agent Conversation Records
+* [draft-bondar-wca](https://datatracker.ietf.org/doc/draft-bondar-wca): Warrant Certificate Authorities (WCA): Auditable Data Provenance for AI-Agent Tool-Call Chains
+* [draft-ni-wimse-ai-agent-identity](https://datatracker.ietf.org/doc/draft-ni-wimse-ai-agent-identity): WIMSE Applicability for AI Agents
 
 ### Observability, Intervention and Control
-
+* [draft-wnd-opsawg-icon-ps](https://datatracker.ietf.org/doc/draft-wnd-opsawg-icon-ps/)Problem Statement for Observability, Intervention and Control (I&C) in Multi-Agent Autonomous Networks
+* [draft-mcw-opsawg-icon-requirements](https://datatracker.ietf.org/doc/draft-mcw-opsawg-icon-requirements/)): Architecture and Requirements for Observability, Control and Intervention of Network Management Agents
+* [draft-verma-dmsc-nlip-notes](https://datatracker.ietf.org/doc/draft-verma-dmsc-nlip-notes/): Use of Natural Language for Agent Communication
 * [draft-sato-soos-hem](https://datatracker.ietf.org/doc/draft-sato-soos-hem): The Human Escalation Mechanism (HEM) for Agentic AI Systems
 * [draft-sato-soos-pt](https://datatracker.ietf.org/doc/draft-sato-soos-pt): Progressive Trust (PT) for Agentic AI Governance Systems
-* [draft-wnd-icon-problem-statement](https://github.com/billwuqin/ICON-problem-statement/blob/main/draft-wnd-icon-problem-statement.md): Problem Statement for Observability, Intervention and Control (I&C) in Multi-Agent Autonomous Networks
 
 ### Inter-Agent Communication
 
@@ -136,9 +160,11 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-zhang-dmsc-ioa-semantic-interaction](https://datatracker.ietf.org/doc/draft-zhang-dmsc-ioa-semantic-interaction): Ontology-based Semantic Interaction for Internet of Agents
 * [draft-nennemann-wimse-ect](https://datatracker.ietf.org/doc/draft-nennemann-wimse-ect): Execution Context Tokens for Distributed Agentic Workflows
 * [draft-song-dmsc-problem-statement](https://datatracker.ietf.org/doc/draft-song-dmsc-problem-statement): Problem Statement and Requirements for Dynamic Multi-agent Secured Collaboration (DMSC)
-* [draft-verma-dmsc-nlip-notes](https://datatracker.ietf.org/doc/draft-verma-dmsc-nlip-notes/): Use of Natural Language for Agent Communication
+* [draft-scrm-aiproto-usecases](https://datatracker.ietf.org/doc/draft-scrm-aiproto-usecases): Agentic AI Use Cases
 
-### Networking for AI / AIDC
+### Misc
+
+#### Networking for AI / AIDC
 
 * [draft-filsfils-srv6ops-srv6-ai-backend](https://datatracker.ietf.org/doc/draft-filsfils-srv6ops-srv6-ai-backend/): SRv6 for Deterministic Path Placement in AI Backends
 * [draft-hu-rtgwg-cbfc-rsvp](https://datatracker.ietf.org/doc/draft-hu-rtgwg-cbfc-rsvp): Credit-based Flow Control Based on RSVP for RDMA transmission in WAN
@@ -147,14 +173,8 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-cheng-rtgwg-ai-network-reliability-problem](https://datatracker.ietf.org/doc/draft-cheng-rtgwg-ai-network-reliability-problem): Reliability in AI Networks Gap Analysis, Problem Statement, and Requirements
 * [draft-li-rtgwg-distributed-lossless-framework](https://datatracker.ietf.org/doc/draft-li-rtgwg-distributed-lossless-framework): Framework of Distributed AIDC Network
 * [draft-du-catalist-routing-considerations](https://datatracker.ietf.org/doc/draft-du-catalist-routing-considerations): Routing Considerations in Agentic Network
-
-### Misc
-
-* [draft-scrm-aiproto-usecases](https://datatracker.ietf.org/doc/draft-scrm-aiproto-usecases): Agentic AI Use Cases
 * [draft-dunbar-agent-attachment](https://datatracker.ietf.org/doc/draft-dunbar-agent-attachment): Agent Attachment Protocol
-* [draft-birkholz-verifiable-agent-conversations](https://datatracker.ietf.org/doc/draft-birkholz-verifiable-agent-conversations): Verifiable Agent Conversation Records
-* [draft-bondar-wca](https://datatracker.ietf.org/doc/draft-bondar-wca): Warrant Certificate Authorities (WCA): Auditable Data Provenance for AI-Agent Tool-Call Chains
-* [draft-ni-wimse-ai-agent-identity](https://datatracker.ietf.org/doc/draft-ni-wimse-ai-agent-identity): WIMSE Applicability for AI Agents
+
 
 ## Hackathons
 
