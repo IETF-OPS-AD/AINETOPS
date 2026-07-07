@@ -151,6 +151,16 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-prabhu-nmrg-prompt-schema-llm](https://datatracker.ietf.org/doc/draft-prabhu-nmrg-prompt-schema-llm/): Framework for Normalizing Multi-Vendor Network Inputs for LLM-Assisted Network Management
 * [draft-sato-soos-hem](https://datatracker.ietf.org/doc/draft-sato-soos-hem): The Human Escalation Mechanism (HEM) for Agentic AI Systems
 * [draft-sato-soos-pt](https://datatracker.ietf.org/doc/draft-sato-soos-pt): Progressive Trust (PT) for Agentic AI Governance Systems
+* [draft-sato-soos-mad](https://datatracker.ietf.org/doc/draft-sato-soos-mad/): Multi-Agent Delegation in Sovereign Object Systems
+* [draft-sato-soos-cap-rrs](https://datatracker.ietf.org/doc/draft-sato-soos-cap-rrs/): Constitutional AI Protocol -- Regulation Record Specification (CAP-RRS)
+* [draft-sato-soos-cap](https://datatracker.ietf.org/doc/draft-sato-soos-cap/):  The Constitutional AI Protocol (CAP) for Agentic AI Systems
+* [draft-sato-soos-faip](https://datatracker.ietf.org/doc/draft-sato-soos-faip/): The Federated Agent Intelligence Protocol (FAIP) for Agentic AI Systems
+* [draft-sato-soos-aep](https://datatracker.ietf.org/doc/draft-sato-soos-aep/): The Agent Execution Protocol (AEP) for Agentic AI Systems
+* [draft-sato-soos-gar](https://datatracker.ietf.org/doc/draft-sato-soos-gar/): The Governance Audit Record (GAR) for Agentic AI Systems
+* [draft-sato-soos-mjwt](https://datatracker.ietf.org/doc/draft-sato-soos-mjwt/) The Mandate JWT (MJWT) for Agentic AI Systems
+* [draft-sato-soos-sov](https://datatracker.ietf.org/doc/draft-sato-soos-sov/):  The Sovereign Object (SOV) for Agentic AI Systems
+* [draft-sato-soos-idp](https://datatracker.ietf.org/doc/draft-sato-soos-idp/): The Intent Declaration Primitive (IDP) for Agentic AI Systems
+
 
 ### Inter-Agent Communication
 
