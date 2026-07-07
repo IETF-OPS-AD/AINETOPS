@@ -22,8 +22,8 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
   - [Security (including Authentication & Authorization)](#security-including-authentication--authorization)
   - [Observability Intervention and Control](#observability-intervention-and-control) (OPS)
   - [Inter-Agent Communication](#inter-agent-communication) (Discussion in Agent2Agent)
+  - [Networking for AI / AIDC](#networking-for-ai--aidc)
   - [Misc](#misc)
-      - [Networking for AI / AIDC](#networking-for-ai--aidc)
 - [Side Meetings](#side-meetings)
 - [Hackathons](#hackathons)
 - [Incoming IETF Liaison Statements](#incoming-ietf-liaison-statements)
@@ -106,6 +106,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
   * [draft-calabria-bmwg-ai-fabric-training-bench/](https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-training-bench/)
   * [draft-calabria-bmwg-ai-fabric-inference-bench/](https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-inference-bench/)
   * [draft-cui-nmrg-auto-test](https://datatracker.ietf.org/doc/draft-cui-nmop-auto-test): Framework and Automation Levels for AI-Assisted Network Protocol Testing
+
 ### Discovery & Naming
 
 * Detailed [list](https://github.com/danielkinguk/discovery/blob/main/solutions-list.md)
@@ -148,8 +149,6 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 ### Observability, Intervention and Control
 * [draft-wnd-opsawg-icon-ps](https://datatracker.ietf.org/doc/draft-wnd-opsawg-icon-ps/): Problem Statement for Observability, Intervention and Control (I&C) in Multi-Agent Autonomous Networks
 * [draft-mcw-opsawg-icon-requirements](https://datatracker.ietf.org/doc/draft-mcw-opsawg-icon-requirements/)): Architecture and Requirements for Observability, Control and Intervention of Network Management Agents
-* [draft-verma-dmsc-nlip-notes](https://datatracker.ietf.org/doc/draft-verma-dmsc-nlip-notes/): Use of Natural Language for Agent Communication
-* [draft-prabhu-nmrg-prompt-schema-llm](https://datatracker.ietf.org/doc/draft-prabhu-nmrg-prompt-schema-llm/): Framework for Normalizing Multi-Vendor Network Inputs for LLM-Assisted Network Management
 * [draft-sato-soos-hem](https://datatracker.ietf.org/doc/draft-sato-soos-hem): The Human Escalation Mechanism (HEM) for Agentic AI Systems
 * [draft-sato-soos-pt](https://datatracker.ietf.org/doc/draft-sato-soos-pt): Progressive Trust (PT) for Agentic AI Governance Systems
 * [draft-sato-soos-mad](https://datatracker.ietf.org/doc/draft-sato-soos-mad/): Multi-Agent Delegation in Sovereign Object Systems
@@ -177,9 +176,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-song-dmsc-problem-statement](https://datatracker.ietf.org/doc/draft-song-dmsc-problem-statement): Problem Statement and Requirements for Dynamic Multi-agent Secured Collaboration (DMSC)
 * [draft-scrm-aiproto-usecases](https://datatracker.ietf.org/doc/draft-scrm-aiproto-usecases): Agentic AI Use Cases
 
-### Misc
-
-#### Networking for AI / AIDC
+### Networking for AI / AIDC
 
 * [draft-filsfils-srv6ops-srv6-ai-backend](https://datatracker.ietf.org/doc/draft-filsfils-srv6ops-srv6-ai-backend/): SRv6 for Deterministic Path Placement in AI Backends
 * [draft-hu-rtgwg-cbfc-rsvp](https://datatracker.ietf.org/doc/draft-hu-rtgwg-cbfc-rsvp): Credit-based Flow Control Based on RSVP for RDMA transmission in WAN
@@ -188,9 +185,14 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-cheng-rtgwg-ai-network-reliability-problem](https://datatracker.ietf.org/doc/draft-cheng-rtgwg-ai-network-reliability-problem): Reliability in AI Networks Gap Analysis, Problem Statement, and Requirements
 * [draft-li-rtgwg-distributed-lossless-framework](https://datatracker.ietf.org/doc/draft-li-rtgwg-distributed-lossless-framework): Framework of Distributed AIDC Network
 * [draft-du-catalist-routing-considerations](https://datatracker.ietf.org/doc/draft-du-catalist-routing-considerations): Routing Considerations in Agentic Network
+
+### Misc
+
 * [draft-dunbar-agent-attachment](https://datatracker.ietf.org/doc/draft-dunbar-agent-attachment): Agent Attachment Protocol
 * [draft-chuyi-nmrg-agentic-network-inference](https://datatracker.ietf.org/doc/draft-chuyi-nmrg-agentic-network-inference): Agentic Network Architecture and Protocol for Supporting Agent Interconnection
   Communication and Multi-level Inference
+* [draft-verma-dmsc-nlip-notes](https://datatracker.ietf.org/doc/draft-verma-dmsc-nlip-notes/): Use of Natural Language for Agent Communication
+* [draft-prabhu-nmrg-prompt-schema-llm](https://datatracker.ietf.org/doc/draft-prabhu-nmrg-prompt-schema-llm/): Framework for Normalizing Multi-Vendor Network Inputs for LLM-Assisted Network Management
 
 ## Hackathons
 
