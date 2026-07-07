@@ -77,7 +77,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-bernardos-nmrg-agentic-network-optimization](https://datatracker.ietf.org/doc/draft-bernardos-nmrg-agentic-network-optimization): Solutions for enabling agentic sensing with network optimization
 * [draft-yan-nmrg-cross-domain-agent-architecture](https://datatracker.ietf.org/doc/draft-yan-nmrg-cross-domain-agent-architecture/):Cross-Domain Network Agent Architecture for Autonomous Operations
 
-### LLM/AI Benchmarking
+### LLM/AI Benchmarking (OPS)
 
 #### AI for Networking
 ##### Terminology
