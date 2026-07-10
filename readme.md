@@ -107,7 +107,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
   * [draft-calabria-bmwg-ai-fabric-inference-bench/](https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-inference-bench/)
   * [draft-cui-nmrg-auto-test](https://datatracker.ietf.org/doc/draft-cui-nmop-auto-test): Framework and Automation Levels for AI-Assisted Network Protocol Testing
 
-### Discovery & Naming (DAWN BOF)
+### Discovery & Naming (Discussion in DAWN)
 
 * Detailed [list](https://github.com/danielkinguk/discovery/blob/main/solutions-list.md)
 
@@ -150,7 +150,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-sato-soos-idp](https://datatracker.ietf.org/doc/draft-sato-soos-idp/): The Intent Declaration Primitive (IDP) for Agentic AI Systems
 
 
-### Inter-Agent Communication (AgentProto BOF)
+### Inter-Agent Communication ( Discussion in AgentProto BOF)
 
 * [draft-hw-protocol-agent](https://datatracker.ietf.org/doc/draft-hw-protocol-agent): AI Agent Protocols for Multi-modality
 * [draft-yao-catalist-problem-space-analysis](https://datatracker.ietf.org/doc/draft-yao-catalist-problem-space-analysis): Problem Space Analysis of AI Agent Protocols in IETF
@@ -184,7 +184,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 
 ## Side Meetings
 
-### IETF-126
+### IETF-126 (OPS)
 
 * Monday 14:45~15:45
   Agent Authorization (Agent Security)
@@ -220,7 +220,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 
 ## Hackathons
 
-### IETF-126
+### IETF-126 (OPS)
 
 * **AI-based Network Management Agent (NMA)**
   Announcement: [NMOP] IETF 126 Hackathon - AI based Network Management Agent (NMA)
