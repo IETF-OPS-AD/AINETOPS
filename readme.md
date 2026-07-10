@@ -182,6 +182,42 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-verma-dmsc-nlip-notes](https://datatracker.ietf.org/doc/draft-verma-dmsc-nlip-notes/): Use of Natural Language for Agent Communication
 * [draft-prabhu-nmrg-prompt-schema-llm](https://datatracker.ietf.org/doc/draft-prabhu-nmrg-prompt-schema-llm/): Framework for Normalizing Multi-Vendor Network Inputs for LLM-Assisted Network Management
 
+## Side Meetings
+
+### IETF-126
+
+* Monday 14:45~15:45
+  Agent Authorization (Agent Security)
+  Park Suite 4
+ 
+* Monday 18:00~19:00
+  Remote Attestation Challenges for AI Agent (Agent Security)
+  Grand Klimt Hall3
+ 
+* Tuesday 15:00~16:00
+  Agentic AI Research Group 
+  Park Suite 4
+ 
+* Wednesday 8:00~9:30
+  Agent Observability, Intervention and Control 
+  Park Suite 4
+ 
+* Wednesday 14:45~15:45
+  AI Consumable Data model
+  Park Suite 4
+ 
+* Thursday 16:15~17:45
+  Agent Operation
+  Park Suite 4
+ 
+* Thursday 17:00~19:00
+  AAuth (Agent Security)
+  Grand Klimt Hall3
+ 
+* Friday 8:00~10:00
+  AIOPS Scope and Charter Discussion
+  Park Suite4
+
 ## Hackathons
 
 ### IETF-126
