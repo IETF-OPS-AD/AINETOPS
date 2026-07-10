@@ -89,7 +89,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 
   * [draft-gaikwad-llm-benchmarking-methodology](https://datatracker.ietf.org/doc/draft-gaikwad-llm-benchmarking-methodology/)
   * [draft-contreras-bmwg-ai-agent-benchmarking](https://datatracker.ietf.org/doc/draft-contreras-bmwg-ai-agent-benchmarking/)
-  * [draft-han-bmwg-agent-security-benchmark] (https://datatracker.ietf.org/doc/draft-han-bmwg-agent-security-benchmark/)
+  * [draft-han-bmwg-agent-security-benchmark](https://datatracker.ietf.org/doc/draft-han-bmwg-agent-security-benchmark/)
 
 ##### Profiles: SUT boundary definitions for model engines, AI firewall, AI gateways, etc.
 
