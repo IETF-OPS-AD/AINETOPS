@@ -107,21 +107,9 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
   * [draft-calabria-bmwg-ai-fabric-inference-bench/](https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-inference-bench/)
   * [draft-cui-nmrg-auto-test](https://datatracker.ietf.org/doc/draft-cui-nmop-auto-test): Framework and Automation Levels for AI-Assisted Network Protocol Testing
 
-### Discovery & Naming/DAWN BOF
+### Discovery & Naming (DAWN BOF)
 
 * Detailed [list](https://github.com/danielkinguk/discovery/blob/main/solutions-list.md)
-* [draft-jakab-dawn-agent-discovery-mdns](https://datatracker.ietf.org/doc/draft-jakab-dawn-agent-discovery-mdns/):Zero-Configuration Agent Discovery
-* [draft-yao-dawn-agent-discovery-architect](https://datatracker.ietf.org/doc/draft-yao-dawn-agent-discovery-architect/):DNS-like Agent Discovery Architecture
-* [draft-farrel-dawn-terminology](https://datatracker.ietf.org/doc/draft-farrel-dawn-terminology/):Terminology for the Discovery of Agents, Workloads, and Named Entities (DAWN)
-* [draft-cui-dawn-mdi-model](https://datatracker.ietf.org/doc/draft-cui-dawn-mdi-model/):An Information Model for Minimum Discoverable Information (MDI)
-* [draft-jimenez-dawn-discovery-landscape](https://datatracker.ietf.org/doc/draft-jimenez-dawn-discovery-landscape/):A Survey of AI Agent Discovery Mechanisms
-* [draft-he-dawn-ipv6-agent-aware-framework](https://datatracker.ietf.org/doc/draft-he-dawn-ipv6-agent-aware-framework/):Agent-Awareness in IPv6 Networks: Problem Statement and Framework
-* [draft-akhavain-moussa-dawn-problem-statement](https://datatracker.ietf.org/doc/draft-akhavain-moussa-dawn-problem-statement/):Problem Statement for the Discovery of Agents, Workloads, and Named Entities (DAWN)
-* [draft-moussa-dawn-gap-analysis](https://datatracker.ietf.org/doc/draft-moussa-dawn-gap-analysis/):Gap Analysis and Applicability Statement for Discovery Protocols of Agents, Workloads, and Named Entities (DAWN)
-* [draft-kay-dawn-use-cases](https://datatracker.ietf.org/doc/draft-kay-dawn-use-cases/):Use Cases for the Discovery of Agents, Workloads, and Named Entities
-* [draft-seethiraju-dawn-dan](https://datatracker.ietf.org/doc/draft-seethiraju-dawn-dan/):DNS-Based Agent Naming (DAN): AIDISCA and AIINDEX Resource Records for AI Agent Discovery
-* [draft-iannone-dawn-privacy-considerations](https://datatracker.ietf.org/doc/draft-iannone-dawn-privacy-considerations/):Privacy Considerations for the Discovery of Agents, Workloads, and Named Entities (DAWN)
-* [draft-king-dawn-requirements](https://datatracker.ietf.org/doc/draft-king-dawn-requirements/):Requirements for the Discovery of Agents, Workloads, and Named Entities (DAWN)
 
 ### Transport
 
@@ -162,7 +150,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-sato-soos-idp](https://datatracker.ietf.org/doc/draft-sato-soos-idp/): The Intent Declaration Primitive (IDP) for Agentic AI Systems
 
 
-### Inter-Agent Communication
+### Inter-Agent Communication (AgentProto BOF)
 
 * [draft-hw-protocol-agent](https://datatracker.ietf.org/doc/draft-hw-protocol-agent): AI Agent Protocols for Multi-modality
 * [draft-yao-catalist-problem-space-analysis](https://datatracker.ietf.org/doc/draft-yao-catalist-problem-space-analysis): Problem Space Analysis of AI Agent Protocols in IETF
@@ -208,11 +196,16 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
   Goal:Test security tools and agent skills focused on three key areas: intent source validation, agent and tool identity, and heterogeneous credentials verification.
  
 * **Security Evaluation Benchmark for AI Agents**
-  Goal:a security evaluation benchmark for AI agents
+  Goal: A security evaluation benchmark for AI agents
   * Evaluating dimensions like algorithms, data, execution, third-party components, and evolution. Key metrics include adversarial, privacy, and jailbreak defenses, as well as plugin,
     skill and autonomous iteration security. 
   * Using static and dynamic testing, the framework assesses agents before, during, and after deployment. By scoring these metrics, it quantitatively evaluates the security posture,
     enabling direct capability comparisons and security grading across agents.
+
+* **AI Agent observability for network management operations**
+  Goal: AI Agent observability for network management operations
+  * AI agent observability framework for network diagnosis AI agent Capture Operational metrics
+  Key Applications: Agent Benchmarking, Agent Intervention Control
 
 ### IETF-125
 
