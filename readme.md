@@ -107,7 +107,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
   * [draft-calabria-bmwg-ai-fabric-inference-bench/](https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-inference-bench/)
   * [draft-cui-nmrg-auto-test](https://datatracker.ietf.org/doc/draft-cui-nmop-auto-test): Framework and Automation Levels for AI-Assisted Network Protocol Testing
 
-### Discovery & Naming
+### Discovery & Naming/DAWN BOF
 
 * Detailed [list](https://github.com/danielkinguk/discovery/blob/main/solutions-list.md)
 * [draft-jakab-dawn-agent-discovery-mdns](https://datatracker.ietf.org/doc/draft-jakab-dawn-agent-discovery-mdns/):Zero-Configuration Agent Discovery
