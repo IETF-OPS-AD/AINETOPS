@@ -229,12 +229,9 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [Task Discovery in AI Network](https://wiki.ietf.org/en/meeting/125/hackathon#task-discovery-in-ai-network)
 
 ## Incoming IETF Liaison Statements
-
-* **2026-05-21 | ITU-T FG-AINN to OPSAWG | For information**
-  Subject: New Liaison Statement on completion of the FG-AINN WG1 draft deliverable, "Technical Specification - Vocabulary for Artificial Intelligence Native for Telecommunication Networks".
-  Summary: ITU-T FG-AINN notified OPSAWG that WG1 completed draft deliverable output FG-AINN-O-023 at the seventh FG virtual meeting (5-7 May 2026). The deliverable defines common AI-native telecom terminology and is aligned with FG-AINN-O-024 (concepts, characteristics, and definitions). Release of the final version is planned for 30 November 2026.
-  Links: [IETF mail archive message](https://mailarchive.ietf.org/arch/msg/opsawg/I9GIEkenPKNOW8xJZloI7q5Kvj8/), [Datatracker liaison page](https://datatracker.ietf.org/liaison/2159/)
-  Attachments: [Standardization Gap Analysis of the FG-AINN](https://www.ietf.org/lib/dt/documents/LIAISON/liaison-2026-05-21-itu-t-opsawg-ls-on-completion-of-the-fg-ainn-wg1-draft-deliverable-technical-specification-vocabulary-for-artificial-intellige-attachment-1.docx), [Technical Specification - Vocabulary for Artificial Intelligence Native Telecommunication Networks (May 2026)](https://www.ietf.org/lib/dt/documents/LIAISON/liaison-2026-05-21-itu-t-opsawg-ls-on-completion-of-the-fg-ainn-wg1-draft-deliverable-technical-specification-vocabulary-for-artificial-intellige-attachment-2.docx)
+| Time | WG | Location | Subject| Link|Attachment|
+|---|---|---|---|
+| 2026-05-21 | ITU-T FG-AINN to OPSAWG | For information** Subject: New Liaison Statement on completion of the FG-AINN WG1 draft deliverable, "Technical Specification - Vocabulary for Artificial Intelligence Native for Telecommunication Networks". Summary: ITU-T FG-AINN notified OPSAWG that WG1 completed draft deliverable output FG-AINN-O-023 at the seventh FG virtual meeting (5-7 May 2026). The deliverable defines common AI-native telecom terminology and is aligned with FG-AINN-O-024 (concepts, characteristics, and definitions). Release of the final version is planned for 30 November 2026.| Links: [IETF mail archive message](https://mailarchive.ietf.org/arch/msg/opsawg/I9GIEkenPKNOW8xJZloI7q5Kvj8/), [Datatracker liaison page](https://datatracker.ietf.org/liaison/2159/) |Attachments: [Standardization Gap Analysis of the FG-AINN](https://www.ietf.org/lib/dt/documents/LIAISON/liaison-2026-05-21-itu-t-opsawg-ls-on-completion-of-the-fg-ainn-wg1-draft-deliverable-technical-specification-vocabulary-for-artificial-intellige-attachment-1.docx), [Technical Specification - Vocabulary for Artificial Intelligence Native Telecommunication Networks (May 2026)](https://www.ietf.org/lib/dt/documents/LIAISON/liaison-2026-05-21-itu-t-opsawg-ls-on-completion-of-the-fg-ainn-wg1-draft-deliverable-technical-specification-vocabulary-for-artificial-intellige-attachment-2.docx) |
 
 ## AI-related Mailing Lists
 
