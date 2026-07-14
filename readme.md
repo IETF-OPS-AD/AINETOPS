@@ -182,41 +182,75 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-verma-dmsc-nlip-notes](https://datatracker.ietf.org/doc/draft-verma-dmsc-nlip-notes/): Use of Natural Language for Agent Communication
 * [draft-prabhu-nmrg-prompt-schema-llm](https://datatracker.ietf.org/doc/draft-prabhu-nmrg-prompt-schema-llm/): Framework for Normalizing Multi-Vendor Network Inputs for LLM-Assisted Network Management
 
+## AI-related slots in these OPS WGs
+
+### IETF 126 (OPS)
+
+| OPS WGs | Time | AI Topics | Relevant I-Ds|
+|---|---|---|---|
+|SRv6OPS|11:30-12:30 Tuesday Session II| Network for AI: SRv6 in AI Backend|draft-filsfils-srv6ops-srv6-ai-backend|
+|ANIMA|16:30-18:00 Tuesday Session IV| AI-powered Autonomic Service Agent AI Agent for Endpoint Device|draft-eckert-anima-ai4an draft-han-anima-gap-analysis-ai-asa draft-shang-agent-network-admission draft-shang-campus-agent-scope-down|
+|IPPM/BMWG|11:30-12:30 Wednesday Sesion II|AI for Network Benchmarking|draft-calabria-bmwg-ai-fabric-terminology, draft-calabria-bmwg-ai-fabric-training-bench, draft-calabria-bmwg-ai-fabric-inference-bench|
+|NMOP|11:30-12:30 Thursday Session II |Intent interface for Network Management Agent Ontology/Knowledge Graph for Agent assisted workflow|draft-zhao-nmop-network-management-agent draft-wu-nmop-nma-nti-problem-statement draft-zhao-nmop-nma-a2u-yang draft-cui-nmop-agent-sketch-com draft-nmop-cui-nkg-gateway|
+
 ## Side Meetings
 
 ### IETF-126 (OPS)
 
 * Monday 14:45~15:45
+
   Agent Authorization (Agent Security)
+
   Park Suite 4
- 
+
 * Monday 18:00~19:00
+
   Remote Attestation Challenges for AI Agent (Agent Security)
+
   Grand Klimt Hall3
+
  
 * Tuesday 15:00~16:00
-  Agentic AI Research Group 
+
+  Agentic AI Research Group
+
   Park Suite 4
+
  
 * Wednesday 8:00~9:30
-  Agent Observability, Intervention and Control 
+
+  Agent Observability, Intervention and Control
+
   Park Suite 4
+
  
 * Wednesday 14:45~15:45
+
   AI Consumable Data model
+
   Park Suite 4
+
  
 * Thursday 16:15~17:45
+
   Agent Operation
+
   Park Suite 4
+
  
 * Thursday 17:00~19:00
+
   AAuth (Agent Security)
+
   Grand Klimt Hall3
+
  
 * Friday 8:00~10:00
+
   AIOPS Scope and Charter Discussion
+
   Park Suite4
+
 
 ## Hackathons
 
