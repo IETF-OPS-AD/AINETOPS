@@ -221,7 +221,6 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
     skill and autonomous iteration security. 
   * Using static and dynamic testing, the framework assesses agents before, during, and after deployment. By scoring these metrics, it quantitatively evaluates the security posture,
     enabling direct capability comparisons and security grading across agents.|[Draft:draft-han-bmwg-agent-security-benchmark|](https://datatracker.ietf.org/doc/draft-han-bmwg-agent-security-benchmark/)|
-
 |**AI Agent observability for network management operations**| Goal: AI Agent observability for network management operations
   * AI agent observability framework for network diagnosis AI agent Capture Operational metrics
   Key Applications: Agent Benchmarking, Agent Intervention Control|draft-wnd-opsawg-icon-ps draft-mcw-opsawg-icon-requirements draft-contreras-bmwg-ai-agent-benchmarking||
