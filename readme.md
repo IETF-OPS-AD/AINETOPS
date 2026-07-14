@@ -197,16 +197,16 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 
 ### IETF-126 (OPS)
 
-| Time | Side meeting | Location |
-|---|---|---|
-|Monday 14:45~15:45|Agent Authorization (Agent Security)|Park Suite 4|
-|Monday 18:00~19:00|Remote Attestation Challenges for AI Agent (Agent Security)|Grand Klimt Hall3|
-|Tuesday 15:00~16:00|Agentic AI Research Group|Park Suite 4|
-|Wednesday 8:00~9:30|Agent Observability, Intervention and Control|Park Suite 4|
-|Wednesday 14:45~15:45|AI Consumable Data model|Park Suite 4|
-|Thursday 16:15~17:45|Agent Operation|Park Suite 4|
-|Thursday 17:00~19:00|AAuth (Agent Security)|Grand Klimt Hall3|
-|Friday 8:00~10:00|AIOPS Scope and Charter Discussion|Park Suite4|
+| Time | Side meeting | Location | Relevant I-Ds|
+|---|---|---|---|
+|Monday 14:45~15:45|Agent Authorization (Agent Security)|Park Suite 4|N/A|
+|Monday 18:00~19:00|Remote Attestation Challenges for AI Agent (Agent Security)|Grand Klimt Hall3|N/A|
+|Tuesday 15:00~16:00|Agentic AI Research Group|Park Suite 4|N/A|
+|Wednesday 8:00~9:30|Agent Observability, Intervention and Control|Park Suite 4|draft-wnd-opsawg-icon-ps draft-mcw-opsawg-icon-requirements|
+|Wednesday 14:45~15:45|AI Consumable Data model|Park Suite 4|draft-mw-nmop-yang-ai-challenges|
+|Thursday 16:15~17:45|Agent Operation|Park Suite 4|N/A|
+|Thursday 17:00~19:00|AAuth (Agent Security)|Grand Klimt Hall3|N/A|
+|Friday 8:00~10:00|AIOPS Scope and Charter Discussion|Park Suite4|N/A|
 
 ## Hackathons
 
