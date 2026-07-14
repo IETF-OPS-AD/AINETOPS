@@ -212,26 +212,19 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 
 ### IETF-126 (OPS)
 
-* **AI-based Network Management Agent (NMA)**
-  Announcement: [NMOP] IETF 126 Hackathon - AI based Network Management Agent (NMA)
-  Scope: Team plans to build concrete NMA agent demos for network domains such as OTN and SPN, and to explore standardisation of northbound interfaces to operator OSS/BSS systems.
-  Expected output: A live demo of a single NMA agent integrating with SDN controllers for intent-based closed-loop automation.
-  Links: [NMOP archive message](https://mailarchive.ietf.org/arch/msg/nmop/sft5m2slKjzMtdcT59xMCB1ZhE8/), [Draft: draft-zhao-nmop-network-management-agent](https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent/), [Hackathon repo notes](https://github.com/xingzhao92/draft-zhao-nmop-network-management-agent/ietf126-hackathon)
-
-* **Security for Agent Communication**
-  Goal:Test security tools and agent skills focused on three key areas: intent source validation, agent and tool identity, and heterogeneous credentials verification.
- 
-* **Security Evaluation Benchmark for AI Agents**
-  Goal: A security evaluation benchmark for AI agents
+| Project Name | Goal and Scope | Relevant I-Ds| Github Repo|
+|---|---|---|---|
+|**AI-based Network Management Agent (NMA)** Announcement: [NMOP] IETF 126 Hackathon - AI based Network Management Agent (NMA) |Scope: Team plans to build concrete NMA agent demos for network domains such as OTN and SPN, and to explore standardisation of northbound interfaces to operator OSS/BSS systems. Expected output: A live demo of a single NMA agent integrating with SDN controllers for intent-based closed-loop automation.| Links: [NMOP archive message](https://mailarchive.ietf.org/arch/msg/nmop/sft5m2slKjzMtdcT59xMCB1ZhE8/), [Draft: draft-zhao-nmop-network-management-agent](https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent/),| [Hackathon repo notes](https://github.com/xingzhao92/draft-zhao-nmop-network-management-agent/ietf126-hackathon)|
+|**Security for Agent Communication**| Goal:Test security tools and agent skills focused on three key areas: intent source validation, agent and tool identity, and heterogeneous credentials verification.|||
+|**Security Evaluation Benchmark for AI Agents**| Goal: A security evaluation benchmark for AI agents
   * Evaluating dimensions like algorithms, data, execution, third-party components, and evolution. Key metrics include adversarial, privacy, and jailbreak defenses, as well as plugin,
     skill and autonomous iteration security. 
   * Using static and dynamic testing, the framework assesses agents before, during, and after deployment. By scoring these metrics, it quantitatively evaluates the security posture,
-    enabling direct capability comparisons and security grading across agents.
+    enabling direct capability comparisons and security grading across agents.|||
 
-* **AI Agent observability for network management operations**
-  Goal: AI Agent observability for network management operations
+|**AI Agent observability for network management operations**| Goal: AI Agent observability for network management operations
   * AI agent observability framework for network diagnosis AI agent Capture Operational metrics
-  Key Applications: Agent Benchmarking, Agent Intervention Control
+  Key Applications: Agent Benchmarking, Agent Intervention Control|||
 
 ### IETF-125
 
