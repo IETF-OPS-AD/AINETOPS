@@ -198,7 +198,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 ### IETF-126 (OPS)
 
 | Time | Side meeting | Location |
-|---|---|---|---|---|
+|---|---|---|
 |Monday 14:45~15:45|Agent Authorization (Agent Security)|Park Suite 4|
 |Monday 18:00~19:00|Remote Attestation Challenges for AI Agent (Agent Security)|Grand Klimt Hall3|
 |Tuesday 15:00~16:00|Agentic AI Research Group|Park Suite 4|
