@@ -27,6 +27,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 - [Side Meetings](#side-meetings)
 - [Hackathons](#hackathons)
 - [Incoming IETF Liaison Statements](#incoming-ietf-liaison-statements)
+- [Outgoing IETF Liaison Statements](#outgoing-ietf-liaison-statements)
 - [AI-related Mailing Lists](#ai-related-mailing-lists)
 - [Further AINETOPS Reading](#further-ainetops-reading)
       
@@ -107,7 +108,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
   * [draft-calabria-bmwg-ai-fabric-inference-bench/](https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-inference-bench/)
   * [draft-cui-nmrg-auto-test](https://datatracker.ietf.org/doc/draft-cui-nmop-auto-test): Framework and Automation Levels for AI-Assisted Network Protocol Testing
 
-### Discovery & Naming (Discussion in DAWN)
+### Discovery & Naming (Discussion in DAWN WG)
 
 * Detailed [list](https://github.com/danielkinguk/discovery/blob/main/solutions-list.md)
 
@@ -150,7 +151,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-sato-soos-idp](https://datatracker.ietf.org/doc/draft-sato-soos-idp/): The Intent Declaration Primitive (IDP) for Agentic AI Systems
 
 
-### Inter-Agent Communication ( Discussion in AgentProto BOF)
+### Inter-Agent Communication ( Discussion in AgentProto WG)
 
 * [draft-hw-protocol-agent](https://datatracker.ietf.org/doc/draft-hw-protocol-agent): AI Agent Protocols for Multi-modality
 * [draft-yao-catalist-problem-space-analysis](https://datatracker.ietf.org/doc/draft-yao-catalist-problem-space-analysis): Problem Space Analysis of AI Agent Protocols in IETF
@@ -184,6 +185,15 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 
 ## AI-related slots in these OPS WGs
 
+### IETF 127 (OPS)
+
+| OPS WGs | Time | AI Topics | Relevant I-Ds|
+|---|---|---|---|
+|BPM|16:30 - 18:30 Tuesday Session IV|Agent Benchmarking|draft-contreras-bpm-ai-agent-benchmarking|
+|BPM|11:30 - 12:30 Wednesday Session II|NET4AI Introduction|N/A|
+|NMOP|16:30 - 17:30	Wednesday Session IV|NMA NTI|draft-zhao-nmop-nma-nti-yang|
+|NET4AI|16:30 - 18:30	Monday Session IV|Agent Workload|draft-raskar-net4ai-agent-portability|
+
 ### IETF 126 (OPS)
 
 | OPS WGs | Time | AI Topics | Relevant I-Ds|
@@ -194,6 +204,20 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 |NMOP|11:30-12:30 Thursday Session II |Intent interface for Network Management Agent Ontology/Knowledge Graph for Agent assisted workflow|draft-zhao-nmop-network-management-agent draft-wu-nmop-nma-nti-problem-statement draft-zhao-nmop-nma-a2u-yang draft-cui-nmop-agent-sketch-com draft-nmop-cui-nkg-gateway|
 
 ## Side Meetings
+
+### IETF-127 (OPS)
+
+| Time | Side meeting | Location | Relevant I-Ds|
+|---|---|---|---|
+|Monday 12:30–13:30|Agentic AI update from ITU-T Focus Group TIDA and Study Group 17|Continental 7|https://github.com/FG-TIDA|
+|Monday 17:30–19:00|Verified Agent-to-Agent Access Agreements Instead of Hand-Built Connectors|Continental 7|draft-hamlett-selo|
+|Tuesday 16:30–17:30|MCP/A2A for AIOPS|Continental 7|MCP/A2A protocols between network control and network devices|
+|Tuesday 18:45–19:45|Agent Passports and Delegation Receipts|Plaza A|draft-le-agent-passport|
+|Wednesday 10:30–12:00|An Agentic AI Framework for the Management of Networks, Security, and AI Services|Continental 7|N/A|
+|Thursday 08:00–09:00|ICON Follow-up Side Meeting|Continental 7|draft-wnd-opsawg-icon-ps draft-mcw-opsawg-icon-requirements|
+|Thusday 09:15–10:15|Rules as Code for AI Agents: Rules Agents Can Follow and Prove|Continental 7|draft-sato-soos-he|
+|Thursday 15:30–16:30|Applicability of Agentic AI Protocols to 6G Systems|Plaza A|N/A|
+|Thursday 19:00–20:00|AI DEVOPS IETF 127 Side-Meeting Proposal|Continental 7|N/A|
 
 ### IETF-126 (OPS)
 
@@ -209,6 +233,16 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 |Friday 8:00~10:00|AIOPS Scope and Charter Discussion|Park Suite4|N/A|
 
 ## Hackathons
+
+### IETF-127 (OPS)
+
+| Project Name | Goal and Scope | Relevant I-Ds| Github Repo|
+|---|---|---|---|
+|**ICON: AI Agent observability for Benchmarking and AI Guardrail Protection In network management operations**| Goal: Extend agent observability with runtime metrics and a common execution trajectory representation for failure diagnosis. Develop Control & Enforcement Plane on exact-action authorization for network agents|draft-wnd-opsawg-icon-ps,draft-mcw-opsawg-icon-requirements,draft-contreras-bpm-ai-agent-benchmarking,draft-pei-opsawg-agentops-observability|https://github.com/billwuqin/Agent-Observability-Intervention-Control/tree/main/Hackathon/IETF%20127|
+|**Agent memory integrity: does your agent's memory store notice tampering**|Goal:Measure the stores participants bring. Write the one adapter class a new store needs. Compare detection points: read path versus later audit|draft-khandelwal-bmwg-agent-memory-integrity|https://github.com/tech4biz-yasha/agent-memory-integrity|
+|**AINETOPS — Network-Management Agent Interoperability**|Goal:Using A2A for task exchanges and evaluating MCP or a platform API for data access,test skill-interface discovery, input/output validation, and exchange of results with supporting evidence||https://github.com/agentic-network-management/agent-schema-interfaces|
+|**Agentic AI Project for Network, Security, and AI Service Management**|Goal: Using A2A and MCP to support policy enforcement, continuous monitoring, and reporting of execution results, enabling users to manage network, security, and AI services through coordinated AI agents|draft-jeong-nmrg-agentic-ai-framework||
+|**Verifiable AI Agent Execution Receipts**|Goal：defines a verifiable receipt for AI agent executions: a tamper-evident record of what ran, what it touched, and what came out, with canonical JSON serialization and a conformance test-vector suite|draft-zambo-aer1|https://gitlab.com/rambozambodotdev/zambo,https://rambozambodotdev.gitlab.io/aer1-hub/try/|
 
 ### IETF-126 (OPS)
 
