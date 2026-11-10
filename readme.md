@@ -135,9 +135,10 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-bondar-wca](https://datatracker.ietf.org/doc/draft-bondar-wca): Warrant Certificate Authorities (WCA): Auditable Data Provenance for AI-Agent Tool-Call Chains
 * [draft-ni-wimse-ai-agent-identity](https://datatracker.ietf.org/doc/draft-ni-wimse-ai-agent-identity): WIMSE Applicability for AI Agents
 
-### Observability, Intervention and Control
+### Observability, Intervention and Control (ICON)
 * [draft-wnd-opsawg-icon-ps](https://datatracker.ietf.org/doc/draft-wnd-opsawg-icon-ps/): Problem Statement for Observability, Intervention and Control (I&C) in Multi-Agent Autonomous Networks
 * [draft-mcw-opsawg-icon-requirements](https://datatracker.ietf.org/doc/draft-mcw-opsawg-icon-requirements/)): Architecture and Requirements for Observability, Control and Intervention of Network Management Agents
+* [draft-pei-opsawg-agentops-observability](https://datatracker.ietf.org/doc/draft-pei-opsawg-agentops-observability/): AgentOps Observability for Failure Detection and Attribution
 * [draft-sato-soos-hem](https://datatracker.ietf.org/doc/draft-sato-soos-hem): The Human Escalation Mechanism (HEM) for Agentic AI Systems
 * [draft-sato-soos-pt](https://datatracker.ietf.org/doc/draft-sato-soos-pt): Progressive Trust (PT) for Agentic AI Governance Systems
 * [draft-sato-soos-mad](https://datatracker.ietf.org/doc/draft-sato-soos-mad/): Multi-Agent Delegation in Sovereign Object Systems
@@ -149,7 +150,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-sato-soos-mjwt](https://datatracker.ietf.org/doc/draft-sato-soos-mjwt/) The Mandate JWT (MJWT) for Agentic AI Systems
 * [draft-sato-soos-sov](https://datatracker.ietf.org/doc/draft-sato-soos-sov/):  The Sovereign Object (SOV) for Agentic AI Systems
 * [draft-sato-soos-idp](https://datatracker.ietf.org/doc/draft-sato-soos-idp/): The Intent Declaration Primitive (IDP) for Agentic AI Systems
-
+* [draft-okutomi-agent-human-interaction](https://datatracker.ietf.org/doc/draft-okutomi-agent-human-interaction/): An Agent-Human Interaction Overlay for Task Protocols
 
 ### Inter-Agent Communication ( Discussion in AgentProto WG)
 
