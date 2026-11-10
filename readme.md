@@ -256,7 +256,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 |**Security Evaluation Benchmark for AI Agents**|Goal: A security evaluation benchmark for AI agents * Evaluating dimensions like algorithms, data, execution, third-party components, and evolution. Key metrics include adversarial, privacy, and jailbreak defenses, as well as plugin, skill and autonomous iteration security. * Using static and dynamic testing, the framework assesses agents before, during, and after deployment. By scoring these metrics, it quantitatively evaluates the security posture, enabling direct capability comparisons and security grading across agents.|[Draft:draft-han-bmwg-agent-security-benchmark](https://datatracker.ietf.org/doc/draft-han-bmwg-agent-security-benchmark/)||
 |**AI Agent observability for network management operations**| Goal: AI Agent observability for network management operations * AI agent observability framework for network diagnosis AI agent Capture Operational metrics Key Applications: Agent Benchmarking, Agent Intervention Control|draft-wnd-opsawg-icon-ps,draft-mcw-opsawg-icon-requirements,draft-contreras-bmwg-ai-agent-benchmarking||
 
-### IETF-125
+### IETF-125 (OPS)
 
 * [Agent Communication Framework for Network AIOps](https://wiki.ietf.org/en/meeting/125/hackathon#agent-communication-framework-for-network-aiops)
 * [LLM Driven Automated Network Protocol Testing](https://wiki.ietf.org/en/meeting/125/hackathon#llm-driven-automated-network-protocol-testing)
@@ -266,6 +266,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [Task Discovery in AI Network](https://wiki.ietf.org/en/meeting/125/hackathon#task-discovery-in-ai-network)
 
 ## Incoming IETF Liaison Statements
+
 | Time | WG | Subject | Link | Attachment |
 |---|---|---|---|---|
 | 2026-05-21 | ITU-T FG-AINN to OPSAWG | For information** Subject: New Liaison Statement on completion of the FG-AINN WG1 draft deliverable, "Technical Specification - Vocabulary for Artificial Intelligence Native for Telecommunication Networks". Summary: ITU-T FG-AINN notified OPSAWG that WG1 completed draft deliverable output FG-AINN-O-023 at the seventh FG virtual meeting (5-7 May 2026). The deliverable defines common AI-native telecom terminology and is aligned with FG-AINN-O-024 (concepts, characteristics, and definitions). Release of the final version is planned for 30 November 2026.| Links: [IETF mail archive message](https://mailarchive.ietf.org/arch/msg/opsawg/I9GIEkenPKNOW8xJZloI7q5Kvj8/), [Datatracker liaison page](https://datatracker.ietf.org/liaison/2159/) |Attachments: [Standardization Gap Analysis of the FG-AINN](https://www.ietf.org/lib/dt/documents/LIAISON/liaison-2026-05-21-itu-t-opsawg-ls-on-completion-of-the-fg-ainn-wg1-draft-deliverable-technical-specification-vocabulary-for-artificial-intellige-attachment-1.docx), [Technical Specification - Vocabulary for Artificial Intelligence Native Telecommunication Networks (May 2026)](https://www.ietf.org/lib/dt/documents/LIAISON/liaison-2026-05-21-itu-t-opsawg-ls-on-completion-of-the-fg-ainn-wg1-draft-deliverable-technical-specification-vocabulary-for-artificial-intellige-attachment-2.docx) |
@@ -273,6 +274,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 
 
 ## Outgoing IETF Liaison Statements
+
 | Time | WG | Subject | Link | Attachment |
 |---|---|---|---|---|
 |2026-11-06|IETF BPM  to 3GPP-TSG-SA-WG2, 3GPP-TSG-SA-WG5|LS on new Benchmarking & Performance Measurements Working Group (BPM)|Links:[IETF mail archive message](https://mailarchive.ietf.org/arch/msg/bpm/7dyOMZfoa3qwWDZr2BKPhnmh_c4/),[Dataracker liaison page](https://datatracker.ietf.org/liaison/2298/)|Attachments:[LS on new Benchmarking & Performance Measurements Working Group (BPM)](https://www.ietf.org/lib/dt/documents/LIAISON/liaison-2026-11-06-bpm-3gpp-tsg-sa-wg2-3gpp-tsg-sa-wg5-ls-on-new-benchmarking-performance-measurements-working-group-bpm-attachment-1.pdf)|
