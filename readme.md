@@ -38,6 +38,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 ### Network Operations
 
 #### Engineering Topics
+
 * [draft-mackey-nmop-kg-for-netops](https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops): Knowledge Graph Framework for Network Operations
 * [draft-smith-opsawg-ai-network-governance](https://datatracker.ietf.org/doc/draft-smith-opsawg-ai-network-governance): Governance Framework for AI-Mediated Autonomous Network Device Management
    communication in network management.
@@ -61,6 +62,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-yan-nmrg-cross-domain-agent-architecture](https://datatracker.ietf.org/doc/draft-yan-nmrg-cross-domain-agent-architecture/):Cross-Domain Network Agent Architecture for Autonomous Operations
 
 #### Research Topics
+
 * [draft-irtf-nmrg-ai-challenges](https://datatracker.ietf.org/doc/draft-irtf-nmrg-ai-challenges): Research Challenges in Coupling Artificial Intelligence and Network Management
 * [draft-irtf-nmrg-ai-deploy](https://datatracker.ietf.org/doc/draft-irtf-nmrg-ai-deploy): Considerations of network/system for AI services
 * [draft-irtf-nmrg-ibn-usecases](https://datatracker.ietf.org/doc/draft-irtf-nmrg-ibn-usecases): Use Cases and Practices for Intent-Based Networking
@@ -100,11 +102,11 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
   * [draft-mondal-llm-serving-workload-profiles](https://datatracker.ietf.org/doc/draft-mondal-llm-serving-workload-profiles/)
 
 #### Network for AI
-#### Terminology
+##### Terminology
 
  * [draft-calabria-bmwg-ai-fabric-terminology/](https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-terminology/)
      
-#### Methodology
+##### Methodology
 
   * [draft-calabria-bmwg-ai-fabric-training-bench/](https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-training-bench/)
   * [draft-calabria-bmwg-ai-fabric-inference-bench/](https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-inference-bench/)
@@ -137,7 +139,8 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-bondar-wca](https://datatracker.ietf.org/doc/draft-bondar-wca): Warrant Certificate Authorities (WCA): Auditable Data Provenance for AI-Agent Tool-Call Chains
 * [draft-ni-wimse-ai-agent-identity](https://datatracker.ietf.org/doc/draft-ni-wimse-ai-agent-identity): WIMSE Applicability for AI Agents
 
-### Observability, Intervention and Control (ICON)
+### Observability, Intervention, and Control (ICON)
+
 * [draft-wnd-opsawg-icon-ps](https://datatracker.ietf.org/doc/draft-wnd-opsawg-icon-ps/): Problem Statement for Observability, Intervention and Control (I&C) in Multi-Agent Autonomous Networks
 * [draft-mcw-opsawg-icon-requirements](https://datatracker.ietf.org/doc/draft-mcw-opsawg-icon-requirements/)): Architecture and Requirements for Observability, Control and Intervention of Network Management Agents
 * [draft-pei-opsawg-agentops-observability](https://datatracker.ietf.org/doc/draft-pei-opsawg-agentops-observability/): AgentOps Observability for Failure Detection and Attribution
@@ -154,7 +157,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-sato-soos-idp](https://datatracker.ietf.org/doc/draft-sato-soos-idp/): The Intent Declaration Primitive (IDP) for Agentic AI Systems
 * [draft-okutomi-agent-human-interaction](https://datatracker.ietf.org/doc/draft-okutomi-agent-human-interaction/): An Agent-Human Interaction Overlay for Task Protocols
 
-### Inter-Agent Communication ( Discussion in AgentProto WG)
+### Inter-Agent Communication (Discussion in AgentProto WG)
 
 * [draft-hw-protocol-agent](https://datatracker.ietf.org/doc/draft-hw-protocol-agent): AI Agent Protocols for Multi-modality
 * [draft-yao-catalist-problem-space-analysis](https://datatracker.ietf.org/doc/draft-yao-catalist-problem-space-analysis): Problem Space Analysis of AI Agent Protocols in IETF
@@ -186,7 +189,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-verma-dmsc-nlip-notes](https://datatracker.ietf.org/doc/draft-verma-dmsc-nlip-notes/): Use of Natural Language for Agent Communication
 * [draft-prabhu-nmrg-prompt-schema-llm](https://datatracker.ietf.org/doc/draft-prabhu-nmrg-prompt-schema-llm/): Framework for Normalizing Multi-Vendor Network Inputs for LLM-Assisted Network Management
 
-## AI-related slots in these OPS WGs
+## AI-related slots in OPS WGs
 
 ### IETF 127 (OPS)
 
