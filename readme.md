@@ -30,14 +30,14 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 - [Outgoing IETF Liaison Statements](#outgoing-ietf-liaison-statements)
 - [AI-related Mailing Lists](#ai-related-mailing-lists)
 - [Further AINETOPS Reading](#further-ainetops-reading)
-      
+
 ## Presentations
 
 ## Internet-Drafts
 
 ### Network Operations
 
-#### Intent interface for network management agent on task management
+#### Intent Interface for Network Management Agent on Task Management
 
 * [draft-zhao-nmop-nma-a2u-yang](https://datatracker.ietf.org/doc/draft-zhao-nmop-nma-a2u-yang/):Framework and YANG Data Model for the NMA A2U Interface
 * [draft-wu-nmop-nma-nti-problem-statement](https://datatracker.ietf.org/doc/draft-wu-nmop-nma-nti-problem-statement/):Problem Statement for Standardizing
