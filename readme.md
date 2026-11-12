@@ -37,29 +37,58 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 
 ### Network Operations
 
-#### Engineering Topics
+#### Intent interface for network management agent on task management
 
-* [draft-mackey-nmop-kg-for-netops](https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops): Knowledge Graph Framework for Network Operations
-* [draft-smith-opsawg-ai-network-governance](https://datatracker.ietf.org/doc/draft-smith-opsawg-ai-network-governance): Governance Framework for AI-Mediated Autonomous Network Device Management
-   communication in network management.
-* [draft-wu-nmop-nma-nti-problem-statement](https://datatracker.ietf.org/doc/draft-wu-nmop-nma-nti-problem-statement/):Problem Statement for Standardizing the northbound Task Interface (NTI) of
-  the Network Management Agent
 * [draft-zhao-nmop-nma-a2u-yang](https://datatracker.ietf.org/doc/draft-zhao-nmop-nma-a2u-yang/):Framework and YANG Data Model for the NMA A2U Interface
-* [draft-cui-nmop-agent-sketch-com](https://datatracker.ietf.org/doc/draft-cui-nmop-agent-sketch-com/):Operational Requirements for Network State Exchange in Agent-Assisted Network Operations
+* [draft-wu-nmop-nma-nti-problem-statement](https://datatracker.ietf.org/doc/draft-wu-nmop-nma-nti-problem-statement/):Problem Statement for Standardizing
+   the northbound  Task Interface (NTI) of the Network Management Agent
 * [draft-king-rokui-ainetops-usecases](https://datatracker.ietf.org/doc/draft-king-rokui-ainetops-usecases): Artificial Intelligence (AI) for Network Operations
-* [draft-zeng-opsawg-applicability-mcp-a2a](https://datatracker.ietf.org/doc/draft-zeng-opsawg-applicability-mcp-a2a/): When NETCONF Is Not Enough: Applicability of MCP and A2A for Advanced Network
-   Management Scenarios
-* [draft-zeng-opsawg-llm-netconf-gap](https://datatracker.ietf.org/doc/draft-zeng-opsawg-llm-netconf-gap/): Gap Analysis of Network Configuration Protocols in LLM-Driven Intent-Based Networking
-* [draft-zw-opsawg-mcp-network-mgmt](https://datatracker.ietf.org/doc/draft-zw-opsawg-mcp-network-mgmt/): Model Context Protocol (MCP) Extensions for Network Equipment Management
-* [draft-zhao-nmop-network-management-agent](https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent): AI-based Network Management Agent (NMA): Concepts and Architecture
-* [draft-zhao-ccamp-actn-optical-network-agent](https://datatracker.ietf.org/doc/draft-zhao-ccamp-actn-optical-network-agent): Integration of Network Management Agent (NMA) into ACTN-Based Optical Network
-* [draft-cgfabk-nmrg-ibn-generative-ai](https://datatracker.ietf.org/doc/draft-cgfabk-nmrg-ibn-generative-ai): Generative AI for Intent-Based Networking
+* [draft-zhao-nmop-network-management-agent](https://datatracker.ietf.org/doc/draft-zhao-nmop-network-management-agent): AI-based Network Management Agent (NMA):
+   Concepts and Architecture
+* [draft-zhao-ccamp-actn-optical-network-agent](https://datatracker.ietf.org/doc/draft-zhao-ccamp-actn-optical-network-agent): Integration of Network Management
+   Agent (NMA) into ACTN-Based Optical Network
+* [draft-feng-nmop-naim-mcp](https://datatracker.ietf.org/doc/draft-feng-nmop-naim-mcp/):Implementing the NAIM Framework over the Model Context Protocol
+* [draft-sun-nmop-agent-lifecycle-management](https://datatracker.ietf.org/doc/draft-sun-nmop-agent-lifecycle-management/): The requirements of Agent Lifecycle Management
+* [draft-sun-ainetops-nma-lifecycle-yang](https://datatracker.ietf.org/doc/draft-sun-ainetops-nma-lifecycle-yang/): NMA Lifecycle Management YANG Data Model
+* [draft-sun-ainetops-task-and-evidence-model](https://datatracker.ietf.org/doc/draft-sun-ainetops-task-and-evidence-model/): Task and Evidence Information Model for AINETOps
+* [draft-rqd-ainetops-problem-statement](https://datatracker.ietf.org/doc/draft-rqd-ainetops-problem-statement/): The problem statement of AI Native Network Operations
 * [draft-xu-nmrg-idp-framework](https://datatracker.ietf.org/doc/draft-xu-nmrg-idp-framework): Intelligent Data Plane (IDP): Framework and Protocol Considerations
-* [draft-chen-nmrg-multi-provider-inference-api](https://datatracker.ietf.org/doc/draft-chen-nmrg-multi-provider-inference-api): Multi-Provider Extensions for Agentic AI Inference APIs
+* [draft-feng-nmrg-ain-architecture](https://datatracker.ietf.org/doc/draft-feng-nmrg-ain-architecture): Agentic Intent Network (AIN) Architecture
+* [draft-feng-nmrg-ain-deployment](https://datatracker.ietf.org/doc/draft-feng-nmrg-ain-deployment): Agentic Intent Network (AIN): Applicability and Deployment Scenarios
+
+### A2A/MCP for Network Management
+
+* [draft-smith-opsawg-ai-network-governance](https://datatracker.ietf.org/doc/draft-smith-opsawg-ai-network-governance): Governance Framework for AI-Mediated Autonomous Network Device Management communication in network management.
+* [draft-zhao-opsawg-agent-gateway-policy](https://datatracker.ietf.org/doc/draft-zhao-opsawg-agent-gateway-policy/):Agent Gateway Policy Control Model
 * [draft-yang-nmrg-mcp-nm](https://datatracker.ietf.org/doc/draft-yang-nmrg-mcp-nm): Applicability of MCP for the Network Management
 * [draft-yang-nmrg-a2a-nm](https://datatracker.ietf.org/doc/draft-yang-nmrg-a2a-nm): Applicability of A2A to the Network Management
+* [draft-zeng-opsawg-applicability-mcp-a2a](https://datatracker.ietf.org/doc/draft-zeng-opsawg-applicability-mcp-a2a/): When NETCONF Is Not Enough: Applicability
+  of MCP and A2A for Advanced Network Management Scenarios
+* [draft-zw-opsawg-mcp-network-mgmt](https://datatracker.ietf.org/doc/draft-zw-opsawg-mcp-network-mgmt/): Model Context Protocol (MCP) Extensions for Network
+  Equipment Management
+* [draft-zeng-nmrg-mcp-usecases-requirements](https://datatracker.ietf.org/doc/draft-zeng-nmrg-mcp-usecases-requirements/):MCP for Network Management: Problem
+  Statement, Use Cases, and Requirements
+* [draft-zeng-opsawg-llm-netconf-gap](https://datatracker.ietf.org/doc/draft-zeng-opsawg-llm-netconf-gap/): Gap Analysis of Network Configuration Protocols in LLM-Driven Intent-Based Networking
+
+### Knowledge Graph
+
+* [draft-mackey-nmop-kg-for-netops](https://datatracker.ietf.org/doc/draft-mackey-nmop-kg-for-netops): Knowledge Graph Framework for Network Operations
+
+### AI Inference API and Routing
+
+* [draft-chen-nmrg-multi-provider-inference-api](https://datatracker.ietf.org/doc/draft-chen-nmrg-multi-provider-inference-api): Multi-Provider Extensions for Agentic AI
+   Inference APIs
+* [draft-chen-nmrg-semantic-inference-routing](https://datatracker.ietf.org/doc/draft-chen-nmrg-semantic-inference-routing/): Semantic Inference Routing Protocol (SIRP)
+
+### Others
+
+* [draft-cui-nmop-agent-sketch-com](https://datatracker.ietf.org/doc/draft-cui-nmop-agent-sketch-com/):Operational Requirements for Network State Exchange in Agent-Assisted Network Operations
+* [draft-cgfabk-nmrg-ibn-generative-ai](https://datatracker.ietf.org/doc/draft-cgfabk-nmrg-ibn-generative-ai): Generative AI for Intent-Based Networking
+* [draft-chen-nmrg-multi-provider-inference-api](https://datatracker.ietf.org/doc/draft-chen-nmrg-multi-provider-inference-api): Multi-Provider Extensions for Agentic AI
+   Inference APIs
 * [draft-bernardos-nmrg-agentic-network-optimization](https://datatracker.ietf.org/doc/draft-bernardos-nmrg-agentic-network-optimization): Solutions for enabling agentic sensing with network optimization
 * [draft-yan-nmrg-cross-domain-agent-architecture](https://datatracker.ietf.org/doc/draft-yan-nmrg-cross-domain-agent-architecture/):Cross-Domain Network Agent Architecture for Autonomous Operations
+* [draft-zhao-nmrg-ai-agent-for-ndt](https://datatracker.ietf.org/doc/draft-zhao-nmrg-ai-agent-for-ndt): AI Agent Architecture for Network Digital Twin
 
 #### Research Topics
 
@@ -67,7 +96,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-irtf-nmrg-ai-deploy](https://datatracker.ietf.org/doc/draft-irtf-nmrg-ai-deploy): Considerations of network/system for AI services
 * [draft-irtf-nmrg-ibn-usecases](https://datatracker.ietf.org/doc/draft-irtf-nmrg-ibn-usecases): Use Cases and Practices for Intent-Based Networking
 * [draft-cxxx-nmrg-ai4ibn](https://datatracker.ietf.org/doc/draft-cxxx-nmrg-ai4ibn/):Agentic AI for Intent-Based Networking
-* [draft-janz-nmrg-inter-agent-conflict-resolution](https://datatracker.ietf.org/doc/draft-janz-nmrg-inter-agent-conflict-resolution): Sources of Inter-Agent Conflicts and Approaches to Conflict
+* [draft-janz-nmrg-inter-agent-conflict-resolution](https://datatracker.ietf.org/doc/draft-janz-nmrg-inter-agent-conflict-resolution): Sources of Inter-Agent Conflicts and   Approaches to Conflict
   Resolution in  Network Management
 * [draft-janz-nmrg-naas-agentic-negotiation](https://datatracker.ietf.org/doc/draft-janz-nmrg-naas-agentic-negotiation): Dynamic Network-as-a-Service Life-Cycle Automation Using End-to-End Agent Negotiation
 * [draft-janz-nmrg-ontology-reconciliation](https://datatracker.ietf.org/doc/draft-janz-nmrg-ontology-reconciliation):  Describes a possible direction for inter-system
@@ -77,9 +106,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-april-cmie-research-problem](https://datatracker.ietf.org/doc/draft-april-cmie-research-problem): Constrained Manifold Inference Engine (CMIE): A Research Problem for Deterministic AI-Network Resilience
 * [draft-pedro-nmrg-ai-framework](https://datatracker.ietf.org/doc/draft-pedro-nmrg-ai-framework): Artificial Intelligence Framework for Network Management
 * [draft-irtf-nmrg-llm-nm](https://datatracker.ietf.org/doc/draft-irtf-nmrg-llm-nm): A Framework for LLM-Assisted Network Management with Human-in-the-Loop
-* [draft-zhao-nmrg-ai-agent-for-ndt](https://datatracker.ietf.org/doc/draft-zhao-nmrg-ai-agent-for-ndt): AI Agent Architecture for Network Digital Twin
-* [draft-feng-nmrg-ain-architecture](https://datatracker.ietf.org/doc/draft-feng-nmrg-ain-architecture): Agentic Intent Network (AIN) Architecture
-* [draft-feng-nmrg-ain-deployment](https://datatracker.ietf.org/doc/draft-feng-nmrg-ain-deployment): Agentic Intent Network (AIN): Applicability and Deployment Scenarios
+
 
 ### LLM/AI Benchmarking (OPS)
 
