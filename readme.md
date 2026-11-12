@@ -17,6 +17,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 - [Internet-Drafts](#internet-drafts)
   - [Network Operations](#network-operations) (OPS Discussion in AINETOPS)
     - [Intent Task Management](#intent-interface-for-network-management-agent-on-task-management)
+    - [A2A and MCP for Network Management](#a2a/mcp-for-network-management)
   - [LLM/AI Benchmarking](#llmai-benchmarking) (OPS Discussion in BPM)
   - [Discovery & Naming](#discovery--naming) (Discussion in DAWN)
   - [Transport](#transport) (Discussion in Agent2Agent)
