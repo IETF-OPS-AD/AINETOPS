@@ -17,7 +17,10 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 - [Internet-Drafts](#internet-drafts)
   - [Network Operations](#network-operations) (OPS Discussion in AINETOPS)
     - [Intent Task Management](#intent-interface-for-network-management-agent-on-task-management)
-    - [A2A and MCP for Network Management](#a2a/mcp-for-network-management)
+    - [A2A and MCP for Network Management](#a2a-and-mcp-for-network-management)
+    - [Knowledge Graph](#knowledge-graph)
+    - [AI Inference API and Routing](#ai-inference-api-and-routing)
+    - [Misc](#others)
   - [LLM/AI Benchmarking](#llmai-benchmarking) (OPS Discussion in BPM)
   - [Discovery & Naming](#discovery--naming) (Discussion in DAWN)
   - [Transport](#transport) (Discussion in Agent2Agent)
@@ -58,7 +61,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-feng-nmrg-ain-architecture](https://datatracker.ietf.org/doc/draft-feng-nmrg-ain-architecture): Agentic Intent Network (AIN) Architecture
 * [draft-feng-nmrg-ain-deployment](https://datatracker.ietf.org/doc/draft-feng-nmrg-ain-deployment): Agentic Intent Network (AIN): Applicability and Deployment Scenarios
 
-### A2A/MCP for Network Management
+### A2A and MCP for Network Management
 
 * [draft-smith-opsawg-ai-network-governance](https://datatracker.ietf.org/doc/draft-smith-opsawg-ai-network-governance): Governance Framework for AI-Mediated Autonomous Network Device Management communication in network management.
 * [draft-zhao-opsawg-agent-gateway-policy](https://datatracker.ietf.org/doc/draft-zhao-opsawg-agent-gateway-policy/):Agent Gateway Policy Control Model
@@ -98,8 +101,8 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-irtf-nmrg-ai-deploy](https://datatracker.ietf.org/doc/draft-irtf-nmrg-ai-deploy): Considerations of network/system for AI services
 * [draft-irtf-nmrg-ibn-usecases](https://datatracker.ietf.org/doc/draft-irtf-nmrg-ibn-usecases): Use Cases and Practices for Intent-Based Networking
 * [draft-cxxx-nmrg-ai4ibn](https://datatracker.ietf.org/doc/draft-cxxx-nmrg-ai4ibn/):Agentic AI for Intent-Based Networking
-* [draft-janz-nmrg-inter-agent-conflict-resolution](https://datatracker.ietf.org/doc/draft-janz-nmrg-inter-agent-conflict-resolution): Sources of Inter-Agent Conflicts and   Approaches to Conflict
-  Resolution in  Network Management
+* [draft-janz-nmrg-inter-agent-conflict-resolution](https://datatracker.ietf.org/doc/draft-janz-nmrg-inter-agent-conflict-resolution): Sources of Inter-Agent Conflicts
+   and Approaches to Conflict Resolution in  Network Management
 * [draft-janz-nmrg-naas-agentic-negotiation](https://datatracker.ietf.org/doc/draft-janz-nmrg-naas-agentic-negotiation): Dynamic Network-as-a-Service Life-Cycle Automation Using End-to-End Agent Negotiation
 * [draft-janz-nmrg-ontology-reconciliation](https://datatracker.ietf.org/doc/draft-janz-nmrg-ontology-reconciliation):  Describes a possible direction for inter-system
 * [draft-wmz-nmrg-agent-ndt-arch](https://datatracker.ietf.org/doc/draft-wmz-nmrg-agent-ndt-arch): Network Digital Twin and Agentic AI-based Architecture for AI-driven Network Operations
