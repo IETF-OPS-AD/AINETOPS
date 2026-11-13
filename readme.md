@@ -60,6 +60,8 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 * [draft-xu-nmrg-idp-framework](https://datatracker.ietf.org/doc/draft-xu-nmrg-idp-framework): Intelligent Data Plane (IDP): Framework and Protocol Considerations
 * [draft-feng-nmrg-ain-architecture](https://datatracker.ietf.org/doc/draft-feng-nmrg-ain-architecture): Agentic Intent Network (AIN) Architecture
 * [draft-feng-nmrg-ain-deployment](https://datatracker.ietf.org/doc/draft-feng-nmrg-ain-deployment): Agentic Intent Network (AIN): Applicability and Deployment Scenarios
+* [draft-janz-nmrg-adhoc-semantic-reconciliation](https://datatracker.ietf.org/doc/draft-janz-nmrg-adhoc-semantic-reconciliation/):Portable Semantic Models and Ad Hoc
+  Reconciliation by Cognitive Agents in Network Management
 
 ### A2A and MCP for Network Management
 
@@ -231,6 +233,7 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 |BPM|11:30 - 12:30 Wednesday Session II|NET4AI Introduction|N/A|
 |NMOP|16:30 - 17:30	Wednesday Session IV|NMA NTI|draft-zhao-nmop-nma-nti-yang|
 |NET4AI|16:30 - 18:30	Monday Session IV|Agent Workload|draft-raskar-net4ai-agent-portability|
+|NMRG|11:00-12:30 Tuesday Session II|Semantic Models and Ad Hoc Reconciliation|draft-janz-nmrg-adhoc-semantic-reconciliation|
 
 ### IETF 126 (OPS)
 
