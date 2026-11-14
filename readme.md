@@ -255,9 +255,10 @@ Several other IETF lists covering AI topics may also be found at the [end of thi
 |Tuesday 16:30–17:30|MCP/A2A for AIOPS|Continental 7|MCP/A2A protocols between network control and network devices|
 |Tuesday 18:45–19:45|Agent Passports and Delegation Receipts|Plaza A|draft-le-agent-passport|
 |Wednesday 10:30–12:00|An Agentic AI Framework for the Management of Networks, Security, and AI Services|Continental 7|N/A|
-|Thursday 08:00–09:00|ICON Follow-up Side Meeting|Continental 7|draft-wnd-opsawg-icon-ps draft-mcw-opsawg-icon-requirements|
+|Thursday 08:00–09:00|ICON Follow-up Side Meeting|Continental 7|N/A|
 |Thusday 09:15–10:15|Rules as Code for AI Agents: Rules Agents Can Follow and Prove|Continental 7|draft-sato-soos-he|
 |Thursday 15:30–16:30|Applicability of Agentic AI Protocols to 6G Systems|Plaza A|N/A|
+|Thursday 18:30-19:30|Discussion on AI/Agentic Work in NMRG|PlazaA|N/A|
 |Thursday 19:00–20:00|AI DEVOPS IETF 127 Side-Meeting Proposal|Continental 7|N/A|
 
 ### IETF-126 (OPS)
